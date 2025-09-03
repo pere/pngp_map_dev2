@@ -1,0 +1,158 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+# Project Structure - Sidebar Svelte Application
+
+## Directory Overview
+
+This is a SvelteKit application with a focus on sidebar navigation, taxonomy browsing, and map visualization. The project uses Svelte 5 with reactive state management and UI components.
+
+## Complete Directory Structure
+
+```
+sidebar/
+├── Configuration Files
+│   ├── components.json          # shadcn/ui component configuration
+│   ├── jsconfig.json           # JavaScript configuration
+│   ├── package.json            # Dependencies and scripts
+│   ├── package-lock.json       # Dependency lock file
+│   ├── svelte.config.js        # SvelteKit configuration
+│   ├── vite.config.js          # Vite bundler configuration
+│   ├── .gitignore              # Git ignore patterns
+│   └── .npmrc                  # npm configuration
+│
+├── Documentation
+│   └── README.md               # Project documentation
+│
+├── Static Assets
+│   └── static/
+│       └── favicon.png         # Application favicon
+│
+├── Source Code
+│   └── src/
+│       ├── app.css             # Global application styles
+│       ├── app.html            # HTML template
+│       │
+│       ├── lib/                # Reusable library code
+│       │   ├── index.js        # Library exports
+│       │   ├── utils.js        # Utility functions
+│       │   │
+│       │   ├── hooks/          # Custom Svelte hooks
+│       │   │   └── is-mobile.svelte.js
+│       │   │
+│       │   ├── data/           # Static/mock data
+│       │   │   └── sp_tax_counts.js  # Species taxonomy counts (58KB)
+│       │   │
+│       │   ├── stores/         # Svelte state management
+│       │   │   ├── store.js           # General app stores
+│       │   │   └── store_pngp.js      # PNGP feature stores
+│       │   │
+│       │   └── components/     # Svelte components
+│       │       ├── Core Components
+│       │       │   ├── app-sidebar.svelte
+│       │       │   ├── app-sidebar-test.svelte
+│       │       │   ├── LateralContent.svelte
+│       │       │   ├── MainMap.svelte        # MapLibre GL map component
+│       │       │   ├── MainNav.svelte
+│       │       │   ├── nav-user.svelte
+│       │       │   ├── navMenu.svelte
+│       │       │   └── SidebarReactiveItem.svelte
+│       │       │
+│       │       ├── pngp/              # PNGP feature components
+│       │       │   ├── SidebarReactiveItem.svelte
+│       │       │   ├── Taxonomy.svelte
+│       │       │   ├── Taxonomy_new.svelte
+│       │       │   ├── app-sidebar.svelte
+│       │       │   ├── LateralContent.svelte
+│       │       │   ├── MainMap.svelte
+│       │       │   ├── MainNav.svelte
+│       │       │   ├── navMenu.svelte
+│       │       │   ├── navMenu copy.svelte
+│       │       │   ├── nav-user.svelte
+│       │       │   └── taxonomy/      # Taxonomy-specific logic
+│       │       │       ├── TaxonomyBrowser.svelte
+│       │       │       ├── TaxonomyGroup.svelte
+│       │       │       └── taxonomyTree.js    # Taxonomy tree utilities
+│       │       │
+│       │       └── ui/                # Reusable UI components
+│       │           ├── avatar/
+│       │           ├── breadcrumb/
+│       │           ├── button/
+│       │           ├── dropdown-menu/
+│       │           ├── input/
+│       │           ├── label/
+│       │           ├── navigation-menu/
+│       │           ├── separator/
+│       │           ├── sheet/
+│       │           ├── sidebar/       # Sidebar UI primitives
+│       │           ├── skeleton/
+│       │           ├── switch/
+│       │           └── tooltip/
+│       │
+│       └── routes/             # SvelteKit routing
+│           ├── +layout.svelte         # Root layout
+│           ├── +page.svelte           # Home page
+│           ├── pngp/
+│           │   └── +page.svelte       # PNGP feature page
+│           └── sidebar-09/
+│               ├── +page.svelte       # Sidebar demo page
+│               └── page copy.svelte
+│
+└── Build/Generated Files
+    ├── .cursor/                # Cursor IDE configuration
+    ├── .svelte-kit/           # SvelteKit build artifacts
+    └── node_modules/          # npm dependencies
+```
+
+## Key Architecture Patterns
+
+### Component Organization
+- **Core Components**: Main application components in `src/lib/components/`
+- **Feature Components**: PNGP-specific components in `src/lib/components/pngp/`
+- **UI Primitives**: Reusable UI components in `src/lib/components/ui/`
+
+### State Management
+- **General Stores**: `src/lib/stores/store.js` - contains `mapInitialized` and other app state
+- **Feature Stores**: `src/lib/stores/store_pngp.js` - contains `clickedNavMainItems` and taxonomy-related stores
+
+### Key Features
+1. **Sidebar Navigation**: Multi-level sidebar with reactive content
+2. **Map Integration**: MapLibre GL integration with state persistence
+3. **Taxonomy Browser**: Hierarchical taxonomy data visualization
+4. **Reactive UI**: Svelte 5 with `$state()`, `$derived()`, and `$effect()`
+
+## Important Files to Know
+
+### Core Application Files
+- `src/lib/components/MainMap.svelte` - Map component with MapLibre GL
+- `src/lib/components/app-sidebar.svelte` - Main sidebar implementation
+- `src/lib/components/LateralContent.svelte` - Content area with conditional rendering
+- `src/lib/stores/store.js` - Core application state
+- `src/lib/stores/store_pngp.js` - PNGP feature state and derived stores
+
+### PNGP Feature Files
+- `src/lib/components/pngp/taxonomy/TaxonomyBrowser.svelte` - Main taxonomy interface
+- `src/lib/components/pngp/taxonomy/taxonomyTree.js` - Taxonomy data processing
+- `src/lib/data/sp_tax_counts.js` - Large species taxonomy dataset (2573 lines)
+
+### Configuration Files
+- `svelte.config.js` - SvelteKit configuration
+- `vite.config.js` - Build tool configuration
+- `components.json` - UI component library configuration
+
+## Development Notes
+
+- **Svelte Version**: Svelte 5 (using new reactive paradigms)
+- **UI Framework**: Custom components with shadcn/ui influence
+- **Map Library**: MapLibre GL for geographic visualization
+- **Build Tool**: Vite with SvelteKit
+- **State**: Reactive stores with derived values for complex data transformations
+
+## Common Patterns
+
+1. **Conditional Rendering**: Using `{#if}` blocks rather than `class:hidden`
+2. **State Reactivity**: `$state()` for local state, stores for shared state
+3. **Component Communication**: Props and stores for data flow
+4. **Feature Organization**: Domain-specific components grouped in subdirectories

@@ -1,0 +1,43 @@
+# PNGP Project Tech Stack & Directory Structure
+
+This rule provides an overview of the PNGP project's tech stack, directory structure, and the purpose of key files and folders. Use this as a reference for onboarding, navigation, and understanding the codebase layout.
+
+## Root Directory
+- `package.json`, `package-lock.json`: Node.js project dependencies and scripts.
+- `jsconfig.json`: JS/TS tooling configuration.
+- `README.md`: Project overview and instructions.
+- `components.json`: Component registry/configuration (if used).
+- `svelte.config.js`: Svelte project configuration.
+- `vite.config.js`: Vite build tool configuration.
+- `static/`: Public static assets (e.g., `favicon.svg`).
+- `my_docs/`: Project documentation and notes.
+- `.cursor/rules/`: Cursor rules for code navigation and standards.
+
+## Source Directory: `src/`
+- `app.css`, `app.d.ts`, `app.html`: Global styles, types, and HTML entrypoint for the Svelte app.
+- `data/`: Project data and scripts for data processing.
+  - `all_sp_data.json`, `tax_classif.json`, `valleys.json`, `years.json`: Data files.
+  - `scripts/`: Data processing scripts (e.g., `fetch_species_data.js`, `join_tax_data.js`).
+  - `old_ones/`: Legacy or archived data scripts and files.
+- `lib/`: Shared libraries, components, and utilities.
+  - `components/`: Svelte UI components, organized by type (e.g., `button/`, `sidebar/`, `avatar/`).
+  - `hooks/`: Custom hooks (e.g., `is-mobile.svelte.js`).
+  - `index.js`, `utils.js`: Library entry point and utility functions.
+- `routes/`: SvelteKit route files and folders.
+  - `+layout.svelte`, `+page.svelte`: Main layout and page components.
+  - `sidebar-09/`: Example or feature-specific route with its own `+page.svelte`.
+
+## Notable Patterns
+- UI components are modularized under `src/lib/components/ui/` by function (button, input, sidebar, etc.).
+- Data scripts and files are separated for clarity and maintainability.
+- SvelteKit routing is handled in `src/routes/` with file-based routing conventions.
+
+## How to Use
+- Refer to this rule to quickly locate files or understand the purpose of a directory.
+- Follow the established structure when adding new features, components, or data files.
+
+---
+description:
+globs:
+alwaysApply: false
+---

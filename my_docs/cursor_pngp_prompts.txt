@@ -1,0 +1,13 @@
+
+modify the js so that only first 10 ids are added to the result. Name the resulting file simple2.json
+for each id, if more than one object in 'results', select the one where 'name'=item.species_n
+
+include only these fields from selected 'result':preferred_common_name,iconic_taxon_name,wikipedia_url,matched_term,medium_url
+if field is empty or non existent, add null as value
+@fetch_species_data.js
+
+@simple2.json   @sp_tax_counts_dbase.js
+create a node js script that joins both files by tax_id and  id (in simple2.json)
+put this joined data into a new property: 'pngp_data'
+name thisnew file as tax_data_joined.json
+

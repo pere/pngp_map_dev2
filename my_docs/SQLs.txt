@@ -1,0 +1,116 @@
+with q as
+
+(select species_n,tax_level,name_it,name_eng,genus_n,family_n,order_n,class_n from
+paradiso.pngp_obs
+group by
+species_n,tax_level,name_it,name_eng,genus_n,family_n,order_n,class_n
+) insert into paradiso.tax_sp
+select * from q;
+
+with q as (
+select id,species_n from paradiso.tax_sp where tax_level='species'
+)
+update paradiso.pngp_obs set tax_id=q.id from q
+where q.species_n=paradiso.pngp_obs.species_n;
+
+with q as (
+select id,genus_n from paradiso.tax_sp where tax_level='genus'
+)
+update paradiso.pngp_obs set tax_id=q.id from q
+where q.genus_n=paradiso.pngp_obs.genus_n;
+
+with q as (
+select id,order_n from paradiso.tax_sp where tax_level='order'
+)
+update paradiso.pngp_obs set tax_id=q.id from q
+where q.order_n=paradiso.pngp_obs.order_n;
+
+
+SELECT
+    o.tax_id,
+    COUNT(o.gid) AS obs_count,j.tax_level,
+	j.species_n,j.genus_n,j.family_n,
+    j.order_n,j.class_n
+FROM paradiso.pngp_obs o
+JOIN paradiso.tax_sp j
+    ON o.tax_id = j.id
+GROUP BY
+    o.tax_id,
+	j.tax_level,
+	j.species_n,j.genus_n,j.family_n,
+    j.order_n,j.class_n
+
+ORDER BY
+    obs_count DESC;
+
+
+
+--select sum(count) from  paradiso.pngp_grid
+insert into paradiso.valley_data (name,counts)
+select distinct(valley),count(gid) from
+paradiso.pngp_obs
+group by valley;
+
+
+SELECT json_agg(t) AS grouped_data
+FROM (
+    SELECT
+id,
+        name,
+counts
+
+    FROM
+paradiso.valley_data
+
+) t;
+
+
+
+update paradiso.pngp_obs_simplified set valley_id=q.id
+from
+(
+ select id,name from paradiso.valley_data
+) as q
+where q.name=paradiso.pngp_obs_simplified.valley;
+
+SELECT json_agg(t) AS grouped_data
+FROM (
+    SELECT
+        year,
+        COUNT(*) AS count
+    FROM paradiso.pngp_obs_simplified
+
+    GROUP BY
+       year
+) t;
+
+SELECT json_agg(t) AS grouped_data
+FROM (
+	SELECT
+    o.tax_id,
+    COUNT(o.gid) AS obs_count,j.tax_level,
+	j.species_n,j.genus_n,j.family_n,
+    j.order_n,j.class_n
+FROM paradiso.pngp_obs o
+JOIN paradiso.tax_sp j
+    ON o.tax_id = j.id
+GROUP BY
+    o.tax_id,
+	j.tax_level,
+	j.species_n,j.genus_n,j.family_n,
+    j.order_n,j.class_n
+
+ORDER BY
+    obs_count DESC
+	) t;
+
+//not used in fact for the moment
+insert into paradiso.pngp_grid_centroids
+select geom,id,id,ST_X(ST_Centroid(geom)),ST_Y(ST_Centroid(geom))
+from paradiso.pngp_grid;
+
+
+UPDATE paradiso.pngp_obs_simplified AS pt
+SET pol_140m_id = poly.pol_id
+FROM paradiso.pngp_grid_140m AS poly
+WHERE ST_Contains(poly.geom, pt.geom);

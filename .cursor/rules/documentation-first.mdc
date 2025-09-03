@@ -1,0 +1,43 @@
+---
+description: Documentation-first workflow for all technical questions
+globs: **/*
+alwaysApply: true
+---
+
+# Documentation-First Workflow
+
+## Rule: Check Local Docs Before Everything Else
+
+When answering ANY technical question about this project:
+
+### Step 1: Read Local Documentation FIRST
+```
+1. docs/svelte 5/svelte.md (Svelte 5 API reference)
+2. docs/svelte 5/svelte_rules.md (Project best practices)
+3. docs/maplibre_svelte_docs.md (Map library docs)
+4. Any other relevant docs/ files
+```
+
+### Step 2: State Your Sources
+Always tell the user:
+- "I checked [specific local files]"
+- "Based on your local documentation..."
+- "Your docs don't mention X, so I'm supplementing with..."
+
+### Step 3: External Sources (Only If Needed)
+- Use web search ONLY if local docs are insufficient
+- Always mention you checked local docs first
+
+## Violation Consequences
+If you skip local documentation:
+- User should immediately stop you
+- You must restart the answer properly
+- This wastes user time and should be avoided
+
+## Examples
+
+✅ **CORRECT:**
+"I checked your docs/svelte 5/svelte.md and found that SvelteMap..."
+
+❌ **WRONG:**
+"Let me search the web for SvelteMap information..." (without checking local docs first)

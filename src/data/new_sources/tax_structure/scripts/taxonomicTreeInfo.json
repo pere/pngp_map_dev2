@@ -1,0 +1,4379 @@
+{
+  "name": "Root",
+  "level": "root",
+  "count": 147834,
+  "children": [
+    {
+      "name": "Aves",
+      "level": "class",
+      "count": 62879,
+      "sp_name": null,
+      "name_eng": null,
+      "name_it": null,
+      "children": [
+        {
+          "name": "Passeriformes",
+          "level": "order",
+          "count": 32587,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Turdus",
+              "level": "genus",
+              "count": 3240,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Turdidae",
+                  "level": "family",
+                  "count": 3240,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Phylloscopus",
+              "level": "genus",
+              "count": 467,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sylviidae",
+                  "level": "family",
+                  "count": 467,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Muscicapa",
+              "level": "genus",
+              "count": 16,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muscicapidae",
+                  "level": "family",
+                  "count": 16,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Prunella",
+              "level": "genus",
+              "count": 820,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Prunellidae",
+                  "level": "family",
+                  "count": 820,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Delichon",
+              "level": "genus",
+              "count": 194,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Hirundinidae",
+                  "level": "family",
+                  "count": 194,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            },
+            {
+              "name": "Nucifraga",
+              "level": "genus",
+              "count": 1397,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Corvidae",
+                  "level": "family",
+                  "count": 1397,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Aegithalos",
+              "level": "genus",
+              "count": 744,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Aegithalidae",
+                  "level": "family",
+                  "count": 744,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            },
+            {
+              "name": "Corvus",
+              "level": "genus",
+              "count": 1173,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Corvidae",
+                  "level": "family",
+                  "count": 1173,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-7"
+            },
+            {
+              "name": "Ficedula",
+              "level": "genus",
+              "count": 70,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muscicapidae",
+                  "level": "family",
+                  "count": 70,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-8"
+            },
+            {
+              "name": "Regulus",
+              "level": "genus",
+              "count": 553,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Reguliidae",
+                  "level": "family",
+                  "count": 553,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-9"
+            },
+            {
+              "name": "Parus",
+              "level": "genus",
+              "count": 4463,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Paridae",
+                  "level": "family",
+                  "count": 4463,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-10"
+            },
+            {
+              "name": "Pyrrhocorax",
+              "level": "genus",
+              "count": 1663,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Corvidae",
+                  "level": "family",
+                  "count": 1663,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-11"
+            },
+            {
+              "name": "Oenanthe",
+              "level": "genus",
+              "count": 1112,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muscicapidae",
+                  "level": "family",
+                  "count": 1112,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-12"
+            },
+            {
+              "name": "Hirundo",
+              "level": "genus",
+              "count": 480,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Hirundinidae",
+                  "level": "family",
+                  "count": 480,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-13"
+            },
+            {
+              "name": "Sylvia",
+              "level": "genus",
+              "count": 347,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sylviidae",
+                  "level": "family",
+                  "count": 347,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-14"
+            },
+            {
+              "name": "Carduelis",
+              "level": "genus",
+              "count": 1225,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Fringillidae",
+                  "level": "family",
+                  "count": 1225,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-15"
+            },
+            {
+              "name": "Certhia",
+              "level": "genus",
+              "count": 770,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Certhiidae",
+                  "level": "family",
+                  "count": 770,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-16"
+            },
+            {
+              "name": "Coccothraustes",
+              "level": "genus",
+              "count": 10,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Fringillidae",
+                  "level": "family",
+                  "count": 10,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-17"
+            },
+            {
+              "name": "Emberiza",
+              "level": "genus",
+              "count": 646,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Emberizidae",
+                  "level": "family",
+                  "count": 646,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-18"
+            },
+            {
+              "name": "Passer",
+              "level": "genus",
+              "count": 65,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Passeridae",
+                  "level": "family",
+                  "count": 65,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-19"
+            },
+            {
+              "name": "Pyrrhula",
+              "level": "genus",
+              "count": 472,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Fringillidae",
+                  "level": "family",
+                  "count": 472,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-20"
+            },
+            {
+              "name": "Cinclus",
+              "level": "genus",
+              "count": 2174,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Cinclidae",
+                  "level": "family",
+                  "count": 2174,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-21"
+            },
+            {
+              "name": "Monticola",
+              "level": "genus",
+              "count": 142,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muscicapidae",
+                  "level": "family",
+                  "count": 142,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-22"
+            },
+            {
+              "name": "Anthus",
+              "level": "genus",
+              "count": 567,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Motacillidae",
+                  "level": "family",
+                  "count": 567,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-23"
+            },
+            {
+              "name": "Montifringilla",
+              "level": "genus",
+              "count": 435,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Passeridae",
+                  "level": "family",
+                  "count": 435,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-24"
+            },
+            {
+              "name": "Loxia",
+              "level": "genus",
+              "count": 703,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Fringillidae",
+                  "level": "family",
+                  "count": 703,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-25"
+            },
+            {
+              "name": "Sitta",
+              "level": "genus",
+              "count": 153,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sittidae",
+                  "level": "family",
+                  "count": 153,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-26"
+            },
+            {
+              "name": "Lanius",
+              "level": "genus",
+              "count": 53,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Laniidae",
+                  "level": "family",
+                  "count": 53,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-27"
+            },
+            {
+              "name": "Motacilla",
+              "level": "genus",
+              "count": 1228,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Motacillidae",
+                  "level": "family",
+                  "count": 1228,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-28"
+            },
+            {
+              "name": "Troglodytes",
+              "level": "genus",
+              "count": 1347,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Troglodytidae",
+                  "level": "family",
+                  "count": 1347,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-29"
+            },
+            {
+              "name": "Garrulus",
+              "level": "genus",
+              "count": 1001,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Corvidae",
+                  "level": "family",
+                  "count": 1001,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-30"
+            },
+            {
+              "name": "Tichodroma",
+              "level": "genus",
+              "count": 650,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sittidae",
+                  "level": "family",
+                  "count": 650,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-31"
+            },
+            {
+              "name": "Phoenicurus",
+              "level": "genus",
+              "count": 1542,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muscicapidae",
+                  "level": "family",
+                  "count": 1542,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-32"
+            },
+            {
+              "name": "Hirundinidae",
+              "level": "family",
+              "count": 6,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-33"
+            },
+            {
+              "name": "Serinus",
+              "level": "genus",
+              "count": 111,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Fringillidae",
+                  "level": "family",
+                  "count": 111,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-34"
+            },
+            {
+              "name": "Bombycilla",
+              "level": "genus",
+              "count": 15,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Bombycillidae",
+                  "level": "family",
+                  "count": 15,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-35"
+            },
+            {
+              "name": "Acrocephalus",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sylviidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-36"
+            },
+            {
+              "name": "Oriolus",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Oriolidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-37"
+            },
+            {
+              "name": "Alauda",
+              "level": "genus",
+              "count": 100,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Alaudidae",
+                  "level": "family",
+                  "count": 100,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-38"
+            },
+            {
+              "name": "Pica",
+              "level": "genus",
+              "count": 26,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Corvidae",
+                  "level": "family",
+                  "count": 26,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-39"
+            },
+            {
+              "name": "Fringilla",
+              "level": "genus",
+              "count": 1344,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Fringillidae",
+                  "level": "family",
+                  "count": 1344,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-40"
+            },
+            {
+              "name": "Saxicola",
+              "level": "genus",
+              "count": 185,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muscicapidae",
+                  "level": "family",
+                  "count": 185,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-41"
+            },
+            {
+              "name": "Luscinia",
+              "level": "genus",
+              "count": 10,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muscicapidae",
+                  "level": "family",
+                  "count": 10,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-42"
+            },
+            {
+              "name": "Sturnus",
+              "level": "genus",
+              "count": 16,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sturnidae",
+                  "level": "family",
+                  "count": 16,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-43"
+            },
+            {
+              "name": "Erithacus",
+              "level": "genus",
+              "count": 850,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muscicapidae",
+                  "level": "family",
+                  "count": 850,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-44"
+            }
+          ],
+          "path": "order-0"
+        },
+        {
+          "name": "Pelecaniformes",
+          "level": "order",
+          "count": 1205,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Egretta",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Ardeidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Ardea",
+              "level": "genus",
+              "count": 1204,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Ardeidae",
+                  "level": "family",
+                  "count": 1204,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            }
+          ],
+          "path": "order-1"
+        },
+        {
+          "name": "Anseriformes",
+          "level": "order",
+          "count": 276,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Anas",
+              "level": "genus",
+              "count": 272,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Anatidae",
+                  "level": "family",
+                  "count": 272,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Mergus",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Anatidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Anser",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Anatidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Spatula",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Anatidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            }
+          ],
+          "path": "order-2"
+        },
+        {
+          "name": "Cuculiformes",
+          "level": "order",
+          "count": 1053,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Cuculus",
+              "level": "genus",
+              "count": 1053,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Cuculidae",
+                  "level": "family",
+                  "count": 1053,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-3"
+        },
+        {
+          "name": "Suliformes",
+          "level": "order",
+          "count": 134,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Phalacrocorax",
+              "level": "genus",
+              "count": 134,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Phalacrocoracidae",
+                  "level": "family",
+                  "count": 134,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-4"
+        },
+        {
+          "name": "Charadriiformes",
+          "level": "order",
+          "count": 131,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Gallinago",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Scolopacidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Larus",
+              "level": "genus",
+              "count": 40,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Laridae",
+                  "level": "family",
+                  "count": 40,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Vanellus",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Charadriidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Scolopacidae",
+              "level": "family",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-3"
+            },
+            {
+              "name": "Tringa",
+              "level": "genus",
+              "count": 18,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Scolopacidae",
+                  "level": "family",
+                  "count": 18,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            },
+            {
+              "name": "Eudromias",
+              "level": "genus",
+              "count": 19,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Charadriidae",
+                  "level": "family",
+                  "count": 19,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Scolopax",
+              "level": "genus",
+              "count": 44,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Scolopacidae",
+                  "level": "family",
+                  "count": 44,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            },
+            {
+              "name": "Actitis",
+              "level": "genus",
+              "count": 6,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Scolopacidae",
+                  "level": "family",
+                  "count": 6,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-7"
+            }
+          ],
+          "path": "order-5"
+        },
+        {
+          "name": "Galliformes",
+          "level": "order",
+          "count": 7014,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Lagopus",
+              "level": "genus",
+              "count": 1154,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Phasianidae",
+                  "level": "family",
+                  "count": 1154,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Coturnix",
+              "level": "genus",
+              "count": 12,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Phasianidae",
+                  "level": "family",
+                  "count": 12,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Alectoris",
+              "level": "genus",
+              "count": 2652,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Phasianidae",
+                  "level": "family",
+                  "count": 2652,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Lyrurus",
+              "level": "genus",
+              "count": 3180,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Phasianidae",
+                  "level": "family",
+                  "count": 3180,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Bonasa",
+              "level": "genus",
+              "count": 16,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Phasianidae",
+                  "level": "family",
+                  "count": 16,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            }
+          ],
+          "path": "order-6"
+        },
+        {
+          "name": "Falconiformes",
+          "level": "order",
+          "count": 2348,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Falco",
+              "level": "genus",
+              "count": 2348,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Falconidae",
+                  "level": "family",
+                  "count": 2348,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-7"
+        },
+        {
+          "name": "Strigiformes",
+          "level": "order",
+          "count": 824,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Otus",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Strigidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Aegolius",
+              "level": "genus",
+              "count": 175,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Strigidae",
+                  "level": "family",
+                  "count": 175,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Asio",
+              "level": "genus",
+              "count": 40,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Strigidae",
+                  "level": "family",
+                  "count": 40,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Athene",
+              "level": "genus",
+              "count": 11,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Strigidae",
+                  "level": "family",
+                  "count": 11,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Strigidae",
+              "level": "family",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-4"
+            },
+            {
+              "name": "Strix",
+              "level": "genus",
+              "count": 247,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Strigidae",
+                  "level": "family",
+                  "count": 247,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Bubo",
+              "level": "genus",
+              "count": 47,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Strigidae",
+                  "level": "family",
+                  "count": 47,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            },
+            {
+              "name": "Glaucidium",
+              "level": "genus",
+              "count": 301,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Strigidae",
+                  "level": "family",
+                  "count": 301,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-7"
+            }
+          ],
+          "path": "order-8"
+        },
+        {
+          "name": "Columbiformes",
+          "level": "order",
+          "count": 190,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Streptopelia",
+              "level": "genus",
+              "count": 21,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Columbidae",
+                  "level": "family",
+                  "count": 21,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Columba",
+              "level": "genus",
+              "count": 169,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Columbidae",
+                  "level": "family",
+                  "count": 169,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            }
+          ],
+          "path": "order-9"
+        },
+        {
+          "name": "Accipitriformes",
+          "level": "order",
+          "count": 9885,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Milvus",
+              "level": "genus",
+              "count": 22,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 22,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Pernis",
+              "level": "genus",
+              "count": 70,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 70,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Pandion",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Pandionidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Circaetus",
+              "level": "genus",
+              "count": 31,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 31,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Circus",
+              "level": "genus",
+              "count": 27,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 27,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            },
+            {
+              "name": "Gypaetus",
+              "level": "genus",
+              "count": 368,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 368,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Accipiter",
+              "level": "genus",
+              "count": 599,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 599,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            },
+            {
+              "name": "Aquila",
+              "level": "genus",
+              "count": 7706,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 7706,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-7"
+            },
+            {
+              "name": "Gyps",
+              "level": "genus",
+              "count": 77,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 77,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-8"
+            },
+            {
+              "name": "Buteo",
+              "level": "genus",
+              "count": 973,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 973,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-9"
+            },
+            {
+              "name": "Aegypius",
+              "level": "genus",
+              "count": 11,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "level": "family",
+                  "count": 11,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-10"
+            }
+          ],
+          "path": "order-10"
+        },
+        {
+          "name": "Piciformes",
+          "level": "order",
+          "count": 6954,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Jynx",
+              "level": "genus",
+              "count": 16,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Picidae",
+                  "level": "family",
+                  "count": 16,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Dryocopus",
+              "level": "genus",
+              "count": 2962,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Picidae",
+                  "level": "family",
+                  "count": 2962,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Dryobates",
+              "level": "genus",
+              "count": 23,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Picidae",
+                  "level": "family",
+                  "count": 23,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Picoides",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Picidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Picus",
+              "level": "genus",
+              "count": 2098,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Picidae",
+                  "level": "family",
+                  "count": 2098,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            },
+            {
+              "name": "Dendrocoptes",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Picidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Dendrocopos",
+              "level": "genus",
+              "count": 1853,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Picidae",
+                  "level": "family",
+                  "count": 1853,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            }
+          ],
+          "path": "order-11"
+        },
+        {
+          "name": "Caprimulgiformes",
+          "level": "order",
+          "count": 205,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Apus",
+              "level": "genus",
+              "count": 39,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Apodidae",
+                  "level": "family",
+                  "count": 39,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Tachymarptis",
+              "level": "genus",
+              "count": 108,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Apodidae",
+                  "level": "family",
+                  "count": 108,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Apodidae",
+              "level": "family",
+              "count": 58,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-2"
+            }
+          ],
+          "path": "order-12"
+        },
+        {
+          "name": "Coraciiformes",
+          "level": "order",
+          "count": 6,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Alcedo",
+              "level": "genus",
+              "count": 6,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Alcedinidae",
+                  "level": "family",
+                  "count": 6,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-13"
+        },
+        {
+          "name": "Bucerotiformes",
+          "level": "order",
+          "count": 63,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Upupa",
+              "level": "genus",
+              "count": 63,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Upupidae",
+                  "level": "family",
+                  "count": 63,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-14"
+        },
+        {
+          "name": "Podicipediformes",
+          "level": "order",
+          "count": 2,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Tachybaptus",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Podicipedidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-15"
+        },
+        {
+          "name": "Ciconiiformes",
+          "level": "order",
+          "count": 2,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Ciconia",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Ciconiidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-16"
+        }
+      ],
+      "path": "class-0"
+    },
+    {
+      "name": "Insecta",
+      "level": "class",
+      "count": 673,
+      "sp_name": null,
+      "name_eng": null,
+      "name_it": null,
+      "children": [
+        {
+          "name": "Lepidoptera",
+          "level": "order",
+          "count": 606,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Issoria",
+              "level": "genus",
+              "count": 5,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 5,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Coenonympha",
+              "level": "genus",
+              "count": 10,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 10,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Lycaena",
+              "level": "genus",
+              "count": 3,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Lycaenidae",
+                  "level": "family",
+                  "count": 3,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Nymphalis",
+              "level": "genus",
+              "count": 83,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 83,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Pieris",
+              "level": "genus",
+              "count": 7,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Pieridae",
+                  "level": "family",
+                  "count": 7,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            },
+            {
+              "name": "Aporia",
+              "level": "genus",
+              "count": 6,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Pieridae",
+                  "level": "family",
+                  "count": 6,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Erebia",
+              "level": "genus",
+              "count": 8,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 8,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            },
+            {
+              "name": "Lasiommata",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-7"
+            },
+            {
+              "name": "Melanargia",
+              "level": "genus",
+              "count": 3,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 3,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-8"
+            },
+            {
+              "name": "Vanessa",
+              "level": "genus",
+              "count": 39,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 39,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-9"
+            },
+            {
+              "name": "Colias",
+              "level": "genus",
+              "count": 29,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Pieridae",
+                  "level": "family",
+                  "count": 29,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-10"
+            },
+            {
+              "name": "Euphydryas",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-11"
+            },
+            {
+              "name": "Cupido",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Lycaenidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-12"
+            },
+            {
+              "name": "Argynnis",
+              "level": "genus",
+              "count": 8,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 8,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-13"
+            },
+            {
+              "name": "Leptidea",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Pieridae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-14"
+            },
+            {
+              "name": "Aglais",
+              "level": "genus",
+              "count": 182,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 182,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-15"
+            },
+            {
+              "name": "Melitaea",
+              "level": "genus",
+              "count": 9,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 9,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-16"
+            },
+            {
+              "name": "Callophrys",
+              "level": "genus",
+              "count": 10,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Lycaenidae",
+                  "level": "family",
+                  "count": 10,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-17"
+            },
+            {
+              "name": "Hyloicus",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sphingidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-18"
+            },
+            {
+              "name": "Plebejus",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Lycaenidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-19"
+            },
+            {
+              "name": "Polygonia",
+              "level": "genus",
+              "count": 4,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "level": "family",
+                  "count": 4,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-20"
+            },
+            {
+              "name": "Macroglossum",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sphingidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-21"
+            },
+            {
+              "name": "Polyommatus",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Lycaenidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-22"
+            },
+            {
+              "name": "Hesperia",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Hesperiidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-23"
+            },
+            {
+              "name": "Pontia",
+              "level": "genus",
+              "count": 5,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Pieridae",
+                  "level": "family",
+                  "count": 5,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-24"
+            },
+            {
+              "name": "Iphiclides",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Papilionidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-25"
+            },
+            {
+              "name": "Gonepteryx",
+              "level": "genus",
+              "count": 18,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Pieridae",
+                  "level": "family",
+                  "count": 18,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-26"
+            },
+            {
+              "name": "Parnassius",
+              "level": "genus",
+              "count": 83,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Papilionidae",
+                  "level": "family",
+                  "count": 83,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-27"
+            },
+            {
+              "name": "Papilio",
+              "level": "genus",
+              "count": 36,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Papilionidae",
+                  "level": "family",
+                  "count": 36,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-28"
+            },
+            {
+              "name": "Anthocharis",
+              "level": "genus",
+              "count": 35,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Pieridae",
+                  "level": "family",
+                  "count": 35,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-29"
+            },
+            {
+              "name": "Thaumetopoea",
+              "level": "genus",
+              "count": 9,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Notodontidae",
+                  "level": "family",
+                  "count": 9,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-30"
+            }
+          ],
+          "path": "order-0"
+        },
+        {
+          "name": "Hymenoptera",
+          "level": "order",
+          "count": 50,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Bombus",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Apidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Formicidae",
+              "level": "family",
+              "count": 9,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-1"
+            },
+            {
+              "name": "Camponotus",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Formicidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Apis",
+              "level": "genus",
+              "count": 6,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Apidae",
+                  "level": "family",
+                  "count": 6,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Formica",
+              "level": "genus",
+              "count": 32,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Formicidae",
+                  "level": "family",
+                  "count": 32,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            }
+          ],
+          "path": "order-1"
+        },
+        {
+          "name": "Coleoptera",
+          "level": "order",
+          "count": 2,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Coccinella",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Coccinellidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-2"
+        },
+        {
+          "name": "Odonata",
+          "level": "order",
+          "count": 11,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Coenagrion",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Coenagrionidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Somatochlora",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Corduliidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            }
+          ],
+          "path": "order-3"
+        },
+        {
+          "name": "Orthoptera",
+          "level": "order",
+          "count": 3,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Gryllidae",
+              "level": "family",
+              "count": 3,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-0"
+            }
+          ],
+          "path": "order-4"
+        },
+        {
+          "name": "Trichoptera",
+          "level": "order",
+          "count": 1,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [],
+          "path": "order-5"
+        }
+      ],
+      "path": "class-1"
+    },
+    {
+      "name": "Mammalia",
+      "level": "class",
+      "count": 81683,
+      "sp_name": null,
+      "name_eng": null,
+      "name_it": null,
+      "children": [
+        {
+          "name": "Carnivora",
+          "level": "order",
+          "count": 8264,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Canis",
+              "level": "genus",
+              "count": 252,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Canidae",
+                  "level": "family",
+                  "count": 252,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Meles",
+              "level": "genus",
+              "count": 752,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Mustelidae",
+                  "level": "family",
+                  "count": 752,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Martes",
+              "level": "genus",
+              "count": 267,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Mustelidae",
+                  "level": "family",
+                  "count": 267,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Mustelidae",
+              "level": "family",
+              "count": 50,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-3"
+            },
+            {
+              "name": "Mustela",
+              "level": "genus",
+              "count": 795,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Mustelidae",
+                  "level": "family",
+                  "count": 795,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            },
+            {
+              "name": "Vulpes",
+              "level": "genus",
+              "count": 6121,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Canidae",
+                  "level": "family",
+                  "count": 6121,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Lutra",
+              "level": "genus",
+              "count": 8,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Mustelidae",
+                  "level": "family",
+                  "count": 8,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            },
+            {
+              "name": "Felis",
+              "level": "genus",
+              "count": 18,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Felidae",
+                  "level": "family",
+                  "count": 18,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-7"
+            },
+            {
+              "name": "Lynx",
+              "level": "genus",
+              "count": 1,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Felidae",
+                  "level": "family",
+                  "count": 1,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-8"
+            }
+          ],
+          "path": "order-0"
+        },
+        {
+          "name": "Rodentia",
+          "level": "order",
+          "count": 8627,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Myodes",
+              "level": "genus",
+              "count": 3,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Cricetidae",
+                  "level": "family",
+                  "count": 3,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Cricetidae",
+              "level": "family",
+              "count": 73,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-1"
+            },
+            {
+              "name": "Muscardinus",
+              "level": "genus",
+              "count": 4,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Gliridae",
+                  "level": "family",
+                  "count": 4,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Glis",
+              "level": "genus",
+              "count": 43,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Gliridae",
+                  "level": "family",
+                  "count": 43,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Chionomys",
+              "level": "genus",
+              "count": 30,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Cricetidae",
+                  "level": "family",
+                  "count": 30,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            },
+            {
+              "name": "Eliomys",
+              "level": "genus",
+              "count": 108,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Gliridae",
+                  "level": "family",
+                  "count": 108,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Apodemus",
+              "level": "genus",
+              "count": 75,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muridae",
+                  "level": "family",
+                  "count": 75,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            },
+            {
+              "name": "Marmota",
+              "level": "genus",
+              "count": 3505,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sciuridae",
+                  "level": "family",
+                  "count": 3505,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-7"
+            },
+            {
+              "name": "Sciurus",
+              "level": "genus",
+              "count": 4742,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Sciuridae",
+                  "level": "family",
+                  "count": 4742,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-8"
+            },
+            {
+              "name": "Mus",
+              "level": "genus",
+              "count": 19,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Muridae",
+                  "level": "family",
+                  "count": 19,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-9"
+            }
+          ],
+          "path": "order-1"
+        },
+        {
+          "name": "Cetartiodactyla",
+          "level": "order",
+          "count": 61429,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Rupicapra",
+              "level": "genus",
+              "count": 27024,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Bovidae",
+                  "level": "family",
+                  "count": 27024,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Sus",
+              "level": "genus",
+              "count": 3789,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Suidae",
+                  "level": "family",
+                  "count": 3789,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Ovis",
+              "level": "genus",
+              "count": 216,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Bovidae",
+                  "level": "family",
+                  "count": 216,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Capra",
+              "level": "genus",
+              "count": 16811,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Bovidae",
+                  "level": "family",
+                  "count": 16811,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Capreolus",
+              "level": "genus",
+              "count": 11822,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Cervidae",
+                  "level": "family",
+                  "count": 11822,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            },
+            {
+              "name": "Cervus",
+              "level": "genus",
+              "count": 1487,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Cervidae",
+                  "level": "family",
+                  "count": 1487,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Bos",
+              "level": "genus",
+              "count": 280,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Bovidae",
+                  "level": "family",
+                  "count": 280,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            }
+          ],
+          "path": "order-2"
+        },
+        {
+          "name": "Eulipotyphla",
+          "level": "order",
+          "count": 170,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Neomys",
+              "level": "genus",
+              "count": 3,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Soricidae",
+                  "level": "family",
+                  "count": 3,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Sorex",
+              "level": "genus",
+              "count": 116,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Soricidae",
+                  "level": "family",
+                  "count": 116,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Crocidura",
+              "level": "genus",
+              "count": 2,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Soricidae",
+                  "level": "family",
+                  "count": 2,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Erinaceus",
+              "level": "genus",
+              "count": 3,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Erinaceidae",
+                  "level": "family",
+                  "count": 3,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Talpa",
+              "level": "genus",
+              "count": 46,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Talpidae",
+                  "level": "family",
+                  "count": 46,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            }
+          ],
+          "path": "order-3"
+        },
+        {
+          "name": "Lagomorpha",
+          "level": "order",
+          "count": 3079,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Lepus",
+              "level": "genus",
+              "count": 3079,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Leporidae",
+                  "level": "family",
+                  "count": 3079,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-4"
+        },
+        {
+          "name": "Chiroptera",
+          "level": "order",
+          "count": 114,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [],
+          "path": "order-5"
+        }
+      ],
+      "path": "class-2"
+    },
+    {
+      "name": "Amphibia",
+      "level": "class",
+      "count": 1071,
+      "sp_name": null,
+      "name_eng": null,
+      "name_it": null,
+      "children": [
+        {
+          "name": "Anura",
+          "level": "order",
+          "count": 879,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Rana",
+              "level": "genus",
+              "count": 879,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Ranidae",
+                  "level": "family",
+                  "count": 879,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-0"
+        },
+        {
+          "name": "Caudata",
+          "level": "order",
+          "count": 192,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Salamandra",
+              "level": "genus",
+              "count": 192,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Salamandridae",
+                  "level": "family",
+                  "count": 192,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            }
+          ],
+          "path": "order-1"
+        }
+      ],
+      "path": "class-3"
+    },
+    {
+      "name": "Reptilia",
+      "level": "class",
+      "count": 1361,
+      "sp_name": null,
+      "name_eng": null,
+      "name_it": null,
+      "children": [
+        {
+          "name": "Squamata",
+          "level": "order",
+          "count": 1361,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Natrix",
+              "level": "genus",
+              "count": 14,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Natricidae",
+                  "level": "family",
+                  "count": 14,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Coronella",
+              "level": "genus",
+              "count": 35,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Colubridae",
+                  "level": "family",
+                  "count": 35,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            },
+            {
+              "name": "Hierophis",
+              "level": "genus",
+              "count": 67,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Colubridae",
+                  "level": "family",
+                  "count": 67,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-2"
+            },
+            {
+              "name": "Podarcis",
+              "level": "genus",
+              "count": 65,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Lacertidae",
+                  "level": "family",
+                  "count": 65,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-3"
+            },
+            {
+              "name": "Lacerta",
+              "level": "genus",
+              "count": 124,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Lacertidae",
+                  "level": "family",
+                  "count": 124,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-4"
+            },
+            {
+              "name": "Vipera",
+              "level": "genus",
+              "count": 912,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Viperidae",
+                  "level": "family",
+                  "count": 912,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-5"
+            },
+            {
+              "name": "Anguis",
+              "level": "genus",
+              "count": 105,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Anguidae",
+                  "level": "family",
+                  "count": 105,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-6"
+            },
+            {
+              "name": "Lacertidae",
+              "level": "family",
+              "count": 39,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-7"
+            }
+          ],
+          "path": "order-0"
+        }
+      ],
+      "path": "class-4"
+    },
+    {
+      "name": "Arachnida",
+      "level": "class",
+      "count": 105,
+      "sp_name": null,
+      "name_eng": null,
+      "name_it": null,
+      "children": [
+        {
+          "name": "Araneae",
+          "level": "order",
+          "count": 1,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [],
+          "path": "order-0"
+        },
+        {
+          "name": "Acari",
+          "level": "order",
+          "count": 104,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Ixodidae",
+              "level": "family",
+              "count": 104,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-0"
+            }
+          ],
+          "path": "order-1"
+        }
+      ],
+      "path": "class-5"
+    },
+    {
+      "name": "Actinopterygii",
+      "level": "class",
+      "count": 30,
+      "sp_name": null,
+      "name_eng": null,
+      "name_it": null,
+      "children": [
+        {
+          "name": "Salmoniformes",
+          "level": "order",
+          "count": 30,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Salvelinus",
+              "level": "genus",
+              "count": 9,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Salmonidae",
+                  "level": "family",
+                  "count": 9,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Salmo",
+              "level": "genus",
+              "count": 21,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Salmonidae",
+                  "level": "family",
+                  "count": 21,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            }
+          ],
+          "path": "order-0"
+        }
+      ],
+      "path": "class-6"
+    },
+    {
+      "name": "Gastropoda",
+      "level": "class",
+      "count": 28,
+      "sp_name": null,
+      "name_eng": null,
+      "name_it": null,
+      "children": [
+        {
+          "name": "Pulmonata",
+          "level": "order",
+          "count": 28,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Helix",
+              "level": "genus",
+              "count": 3,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Helicidae",
+                  "level": "family",
+                  "count": 3,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-0"
+            },
+            {
+              "name": "Arion",
+              "level": "genus",
+              "count": 25,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [
+                {
+                  "name": "Arionidae",
+                  "level": "family",
+                  "count": 25,
+                  "sp_name": null,
+                  "name_eng": null,
+                  "name_it": null,
+                  "children": [],
+                  "path": "family-0"
+                }
+              ],
+              "path": "genus-1"
+            }
+          ],
+          "path": "order-0"
+        }
+      ],
+      "path": "class-7"
+    },
+    {
+      "name": "Clitellata",
+      "level": "class",
+      "count": 4,
+      "sp_name": null,
+      "name_eng": null,
+      "name_it": null,
+      "children": [
+        {
+          "name": "Haplotaxida",
+          "level": "order",
+          "count": 4,
+          "sp_name": null,
+          "name_eng": null,
+          "name_it": null,
+          "children": [
+            {
+              "name": "Lumbricidae",
+              "level": "family",
+              "count": 4,
+              "sp_name": null,
+              "name_eng": null,
+              "name_it": null,
+              "children": [],
+              "path": "family-0"
+            }
+          ],
+          "path": "order-0"
+        }
+      ],
+      "path": "class-8"
+    }
+  ]
+}

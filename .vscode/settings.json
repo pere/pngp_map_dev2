@@ -1,0 +1,27 @@
+{
+  "svelte.plugin.svelte.compilerWarnings": {
+    "a11y-*": "ignore",
+    "svelte/a11y-*": "ignore",
+    "a11y-aria-*": "ignore",
+    "a11y-no-*": "ignore",
+    "a11y_*": "ignore",
+    "a11y_no_*": "ignore",
+    "a11y-click-events-have-key-events": "ignore",
+    "a11y_no_static_element_interactions": "ignore",
+
+    "a11y-no-autofocus": "ignore",
+    "a11y-no-interactive-supports-focus": "ignore",
+    "a11y-no-noninteractive-tabindex": "ignore",
+    "a11y-no-noninteractive-element-interactions": "ignore",
+    "a11y-no-noninteractive-element-to-interactive-role": "ignore",
+    "svelte/a11y-label-has-associated-control": "ignore",
+
+    "a11y_label_has_associated_control": "ignore",
+  },
+  "eslint.rules.customizations": [
+    {
+      "rule": "svelte/a11y-*",
+      "severity": "off"
+    }
+  ]
+}

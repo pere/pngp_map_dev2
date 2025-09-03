@@ -1,0 +1,11 @@
+
+Anything you put inside static/ gets copied as-is to the root of your built site.
+
+After npm run build, these will be available at:
+
+https://your-site.com/data/pngp_grid_140m_topo.json
+https://your-site.com/data/pngp_grid_1km_topo.json
+
+So if your JSON file lives at static/data/pngp_grid_140m_topo.json, then fetching it works like this:
+
+const res = await fetch('/data/pngp_grid_140m_topo.json');

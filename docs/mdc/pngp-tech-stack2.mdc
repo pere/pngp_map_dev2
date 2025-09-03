@@ -1,0 +1,228 @@
+---
+alwaysApply: true
+---
+# PNGP Application Stack Analysis & Best Practices
+
+Comprehensive overview of the PNGP project's technology stack, dependency versions, and recommended best practices for each major component.
+
+## Core Framework Stack
+
+### Svelte Ecosystem
+- **Svelte** `^5.0.0` - Component framework
+  - ✅ **Best Practice**: v5 is the latest major version with runes and improved reactivity
+  - 🔥 **Note**: Breaking changes from v4, ensure all components use new syntax
+  - 📋 **Recommendation**: Keep updated with patch releases for bug fixes
+
+- **SvelteKit** `^2.22.0` - Full-stack framework
+  - ✅ **Best Practice**: v2+ is stable and production-ready
+  - 🔥 **Note**: File-based routing, SSR/SSG capabilities
+  - 📋 **Recommendation**: Use specific adapters for deployment targets
+
+- **@sveltejs/adapter-auto** `^6.0.0` - Deployment adapter
+  - ⚠️ **Caution**: Auto-adapter is for development; use specific adapters in production
+  - 📋 **Recommendation**: Switch to @sveltejs/adapter-static, adapter-node, or adapter-vercel for production
+
+- **@sveltejs/vite-plugin-svelte** `^6.0.0` - Vite integration
+  - ✅ **Best Practice**: Latest version compatible with Svelte 5
+  - 📋 **Recommendation**: Keep in sync with Svelte and Vite versions
+
+### Build Tools & Development
+- **Vite** `^7.0.4` - Build tool and dev server
+  - ✅ **Best Practice**: v7+ offers excellent performance and ES modules support
+  - 🔥 **Note**: Fast HMR, optimized builds, great DX
+  - 📋 **Recommendation**: Configure for production optimizations
+
+- **TypeScript** `^5.0.0` - Type system
+  - ✅ **Best Practice**: v5+ has excellent Svelte support
+  - 📋 **Recommendation**: Use strict mode, configure paths in jsconfig.json
+
+## Styling & UI Framework
+
+### Tailwind CSS Ecosystem
+- **Tailwind CSS** `^4.0.0` - Utility-first CSS framework
+  - 🔥 **Major Version**: v4 is a significant upgrade with new engine
+  - ⚠️ **Caution**: v4 may have breaking changes from v3
+  - 📋 **Recommendation**: Review migration guide, test thoroughly
+
+- **@tailwindcss/vite** `^4.0.0` - Vite integration
+  - ✅ **Best Practice**: Native Vite plugin for v4
+  - 📋 **Recommendation**: Use instead of PostCSS setup for better performance
+
+- **@tailwindcss/forms** `^0.5.9` - Form styling
+  - ✅ **Best Practice**: Essential for consistent form elements
+  - 📋 **Recommendation**: Apply globally or selectively
+
+- **@tailwindcss/typography** `^0.5.15` - Prose styling
+  - ✅ **Best Practice**: Great for content-heavy sections
+  - 📋 **Recommendation**: Use prose classes for markdown/rich text
+
+### Tailwind Utilities
+- **tailwind-merge** `^3.3.1` - Class merging utility
+  - ✅ **Best Practice**: Prevents class conflicts in components
+  - 📋 **Recommendation**: Use in reusable components with conditional classes
+
+- **tailwind-variants** `^1.0.0` - Variant API
+  - ✅ **Best Practice**: Clean API for component variants
+  - 📋 **Recommendation**: Use for complex component state management
+
+- **tw-animate-css** `^1.3.5` - Animation utilities
+  - ✅ **Best Practice**: Adds CSS animations to Tailwind
+  - 📋 **Recommendation**: Use sparingly, prefer CSS transitions when possible
+
+## UI Component Libraries
+
+### Icon Libraries
+- **@lucide/svelte** `^0.515.0` - Lucide icons for Svelte
+  - ✅ **Best Practice**: Lightweight, tree-shakeable icons
+  - 📋 **Recommendation**: Primary icon library, consistent style
+
+- **phosphor-svelte** `^3.0.1` - Phosphor icons for Svelte
+  - ⚠️ **Redundancy**: Two icon libraries may cause inconsistency
+  - 📋 **Recommendation**: Consider standardizing on one library
+
+### Component Framework
+- **bits-ui** `^2.8.11` - Headless UI components
+  - ✅ **Best Practice**: Unstyled, accessible components
+  - 📋 **Recommendation**: Great foundation for custom design systems
+
+### Data Tables & UI Components
+- **@vincjo/datatables** `^2.6.2` - Svelte data table component
+  - ✅ **Best Practice**: Native Svelte data table with sorting/filtering
+  - 🔥 **Use Case**: Perfect for displaying species/ecological data
+  - 📋 **Recommendation**: Ideal for scientific data presentation
+
+### Loading & Feedback
+- **svelte-loading-spinners** `^0.3.6` - Loading spinner components
+  - ✅ **Best Practice**: Simple, lightweight loading indicators
+  - 📋 **Recommendation**: Use for data loading states
+
+### Mapping & Geospatial
+- **svelte-maplibre-gl** `^1.0.1` - MapLibre GL JS for Svelte
+  - ✅ **Best Practice**: Open-source mapping library
+  - 🔥 **Use Case**: Interactive maps for geographical species data
+  - 📋 **Recommendation**: Excellent alternative to Mapbox GL JS
+
+## Data Processing & Utilities
+
+### Data Manipulation & Analysis
+- **arquero** `^8.0.3` - Data wrangling library
+  - ✅ **Best Practice**: Pandas-like functionality for JavaScript
+  - 🔥 **Use Case**: Perfect for species data processing in your project
+  - 📋 **Recommendation**: Ideal for ETL operations in `/src/data/scripts/`
+
+- **d3** `^7.9.0` - Data visualization and DOM manipulation
+  - ✅ **Best Practice**: v7+ is modern with ES modules support
+  - 🔥 **Use Case**: Essential for creating custom data visualizations
+  - 📋 **Recommendation**: Use with Svelte for reactive charts and maps
+
+- **simple-statistics** `^7.8.8` - Statistical functions
+  - ✅ **Best Practice**: Lightweight statistical computing library
+  - 🔥 **Use Case**: Statistical analysis of species/ecological data
+  - 📋 **Recommendation**: Great complement to arquero for data analysis
+
+- **chroma-js** `^3.1.2` - Color manipulation library
+  - ✅ **Best Practice**: Powerful color scales and manipulation
+  - 🔥 **Use Case**: Perfect for data visualization color schemes
+  - 📋 **Recommendation**: Use for choropleth maps and chart color scales
+
+- **topojson-client** `^3.1.0` - TopoJSON format support
+  - ✅ **Best Practice**: Efficient geographical data format
+  - 🔥 **Use Case**: Compressed geographic/map data for web
+  - 📋 **Recommendation**: Essential for mapping applications with D3
+
+### Utility Libraries
+- **clsx** `^2.1.1` - Conditional class names
+  - ✅ **Best Practice**: Small, fast utility for dynamic classes
+  - 📋 **Recommendation**: Use with tailwind-merge for robust class handling
+
+- **@internationalized/date** `^3.8.2` - Date utilities
+  - ✅ **Best Practice**: Robust date handling with i18n support
+  - 📋 **Recommendation**: Use for any date parsing/formatting needs
+
+## Development Tools & Code Quality
+
+### Code Formatting
+- **Prettier** `^3.4.2` - Code formatter
+  - ✅ **Best Practice**: v3+ is stable and fast
+  - 📋 **Recommendation**: Configure with plugins below
+
+- **prettier-plugin-svelte** `^3.3.3` - Svelte formatting
+  - ✅ **Best Practice**: Essential for consistent Svelte formatting
+  - 📋 **Recommendation**: Required for Svelte projects
+
+- **prettier-plugin-tailwindcss** `^0.6.11` - Tailwind class sorting
+  - ✅ **Best Practice**: Automatic class ordering for consistency
+  - 📋 **Recommendation**: Greatly improves code readability
+
+### Code Analysis
+- **svelte-check** `^4.0.0` - Svelte diagnostics
+  - ✅ **Best Practice**: Type checking and error detection
+  - 📋 **Recommendation**: Run in CI/CD pipeline
+
+## Version Compatibility Matrix
+
+### Critical Compatibility
+- ✅ **Svelte 5.0** + **SvelteKit 2.22** + **Vite Plugin 6.0** = Compatible
+- ✅ **Tailwind 4.0** + **Vite Plugin 4.0** = Compatible
+- ✅ **TypeScript 5.0** + **Svelte 5.0** = Compatible
+
+### Potential Issues
+- ⚠️ **Tailwind v4**: Major version upgrade, check for breaking changes
+- ⚠️ **Dual Icon Libraries**: Consider consolidating to one
+- ⚠️ **Adapter Auto**: Not suitable for production deployment
+
+## Data Visualization & Mapping Stack Assessment
+
+### Excellent Data Science Capabilities
+This project has a **world-class data visualization and mapping stack**:
+- **D3.js** for custom visualizations
+- **MapLibre GL** for interactive mapping
+- **Arquero** for data processing
+- **Simple Statistics** for statistical analysis
+- **Chroma.js** for color scales
+- **TopoJSON** for efficient geographic data
+
+### Perfect for Scientific/Environmental Applications
+The combination suggests this is a **scientific data visualization project**, likely for:
+- Species distribution mapping
+- Ecological data analysis
+- Geographic information systems (GIS)
+- Environmental monitoring dashboards
+
+## Recommended Actions
+
+### Immediate
+1. Review Tailwind v4 migration guide and test thoroughly
+2. Choose between Lucide or Phosphor icons for consistency
+3. Configure specific deployment adapter for production
+4. Ensure D3 + Svelte integration follows best practices
+
+### Data Visualization Best Practices
+1. Use Svelte's reactivity with D3 data joins carefully
+2. Consider using D3 for calculations, Svelte for DOM manipulation
+3. Implement proper data loading states with svelte-loading-spinners
+4. Use chroma-js color scales consistently across all visualizations
+
+### Future Upgrades
+1. Monitor Svelte 5 ecosystem for stable component libraries
+2. Consider migrating to TypeScript fully (currently using jsconfig.json)
+3. Evaluate need for both icon libraries
+4. Consider adding Observable Plot as a simpler alternative to D3 for some charts
+
+### Production Readiness
+1. Replace `adapter-auto` with production-specific adapter
+2. Configure Vite for production optimizations
+3. Set up proper CI/CD with svelte-check
+4. Consider adding testing framework (Vitest recommended)
+5. Optimize TopoJSON and data files for production
+
+## Stack Rating: ⭐⭐⭐⭐⭐
+
+**Outstanding data visualization and mapping stack** with cutting-edge versions. This is a **premium scientific/environmental data application stack** featuring:
+- Modern reactive UI (Svelte 5 + SvelteKit 2)
+- Professional data visualization (D3 v7)
+- Advanced mapping capabilities (MapLibre GL)
+- Comprehensive data processing (Arquero + Simple Statistics)
+- Beautiful styling (Tailwind 4)
+
+This stack is perfectly suited for complex data-driven applications requiring interactive maps, statistical analysis, and custom visualizations.

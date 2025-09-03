@@ -1,0 +1,3342 @@
+[
+	{
+		"tax_id": 2,
+		"data": [
+			{ "year": 2000, "count": 2 },
+			{ "year": 2001, "count": 1 },
+			{ "year": 2002, "count": 7 },
+			{ "year": 2003, "count": 22 },
+			{ "year": 2004, "count": 16 },
+			{ "year": 2005, "count": 6 },
+			{ "year": 2009, "count": 15 },
+			{ "year": 2010, "count": 82 },
+			{ "year": 2011, "count": 180 },
+			{ "year": 2012, "count": 139 },
+			{ "year": 2013, "count": 81 },
+			{ "year": 2014, "count": 107 },
+			{ "year": 2015, "count": 121 },
+			{ "year": 2016, "count": 63 },
+			{ "year": 2017, "count": 102 },
+			{ "year": 2018, "count": 81 },
+			{ "year": 2019, "count": 108 },
+			{ "year": 2020, "count": 28 },
+			{ "year": 2021, "count": 27 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 3,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2016, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 4,
+		"data": [
+			{ "year": 2001, "count": 1 },
+			{ "year": 2002, "count": 3 },
+			{ "year": 2003, "count": 1 },
+			{ "year": 2004, "count": 4 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2006, "count": 2 },
+			{ "year": 2007, "count": 3 },
+			{ "year": 2009, "count": 2 },
+			{ "year": 2010, "count": 9 },
+			{ "year": 2011, "count": 18 },
+			{ "year": 2012, "count": 19 },
+			{ "year": 2013, "count": 14 },
+			{ "year": 2014, "count": 7 },
+			{ "year": 2015, "count": 7 },
+			{ "year": 2016, "count": 17 },
+			{ "year": 2017, "count": 9 },
+			{ "year": 2018, "count": 3 },
+			{ "year": 2019, "count": 5 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 5 }
+		]
+	},
+	{ "tax_id": 5, "data": [{ "year": 2013, "count": 2 }] },
+	{
+		"tax_id": 6,
+		"data": [
+			{ "year": 2000, "count": 2 },
+			{ "year": 2001, "count": 3 },
+			{ "year": 2002, "count": 10 },
+			{ "year": 2003, "count": 4 },
+			{ "year": 2004, "count": 15 },
+			{ "year": 2005, "count": 8 },
+			{ "year": 2009, "count": 3 },
+			{ "year": 2010, "count": 67 },
+			{ "year": 2011, "count": 97 },
+			{ "year": 2012, "count": 123 },
+			{ "year": 2013, "count": 182 },
+			{ "year": 2014, "count": 107 },
+			{ "year": 2015, "count": 75 },
+			{ "year": 2016, "count": 46 },
+			{ "year": 2017, "count": 96 },
+			{ "year": 2018, "count": 52 },
+			{ "year": 2019, "count": 50 },
+			{ "year": 2020, "count": 7 },
+			{ "year": 2021, "count": 10 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 7,
+		"data": [
+			{ "year": 2003, "count": 3 },
+			{ "year": 2004, "count": 7 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2007, "count": 1 },
+			{ "year": 2009, "count": 4 },
+			{ "year": 2010, "count": 53 },
+			{ "year": 2011, "count": 93 },
+			{ "year": 2012, "count": 103 },
+			{ "year": 2013, "count": 74 },
+			{ "year": 2014, "count": 48 },
+			{ "year": 2015, "count": 52 },
+			{ "year": 2016, "count": 53 },
+			{ "year": 2017, "count": 71 },
+			{ "year": 2018, "count": 52 },
+			{ "year": 2019, "count": 30 },
+			{ "year": 2020, "count": 36 },
+			{ "year": 2021, "count": 37 },
+			{ "year": "No data", "count": 6 }
+		]
+	},
+	{ "tax_id": 8, "data": [{ "year": 2014, "count": 1 }] },
+	{
+		"tax_id": 9,
+		"data": [
+			{ "year": 2012, "count": 1 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2017, "count": 2 },
+			{ "year": 2018, "count": 3 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 10,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2012, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 11,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 5 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 5 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2017, "count": 12 },
+			{ "year": 2018, "count": 2 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 2 },
+			{ "year": 2021, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 12,
+		"data": [
+			{ "year": 2001, "count": 5 },
+			{ "year": 2002, "count": 8 },
+			{ "year": 2003, "count": 36 },
+			{ "year": 2004, "count": 32 },
+			{ "year": 2005, "count": 12 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2008, "count": 1 },
+			{ "year": 2009, "count": 125 },
+			{ "year": 2010, "count": 307 },
+			{ "year": 2011, "count": 434 },
+			{ "year": 2012, "count": 266 },
+			{ "year": 2013, "count": 160 },
+			{ "year": 2014, "count": 226 },
+			{ "year": 2015, "count": 128 },
+			{ "year": 2016, "count": 78 },
+			{ "year": 2017, "count": 88 },
+			{ "year": 2018, "count": 84 },
+			{ "year": 2019, "count": 71 },
+			{ "year": 2020, "count": 43 },
+			{ "year": 2021, "count": 37 },
+			{ "year": "No data", "count": 13 }
+		]
+	},
+	{
+		"tax_id": 14,
+		"data": [
+			{ "year": 2000, "count": 5 },
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 5 },
+			{ "year": 2004, "count": 1 },
+			{ "year": 2005, "count": 4 },
+			{ "year": 2006, "count": 2 },
+			{ "year": 2007, "count": 6 },
+			{ "year": 2008, "count": 2 },
+			{ "year": 2009, "count": 10 },
+			{ "year": 2010, "count": 29 },
+			{ "year": 2011, "count": 31 },
+			{ "year": 2012, "count": 17 },
+			{ "year": 2013, "count": 8 },
+			{ "year": 2014, "count": 13 },
+			{ "year": 2015, "count": 9 },
+			{ "year": 2016, "count": 5 },
+			{ "year": 2017, "count": 12 },
+			{ "year": 2018, "count": 19 },
+			{ "year": 2019, "count": 15 },
+			{ "year": 2020, "count": 9 },
+			{ "year": 2021, "count": 11 }
+		]
+	},
+	{
+		"tax_id": 15,
+		"data": [
+			{ "year": 1999, "count": 7 },
+			{ "year": 2000, "count": 15 },
+			{ "year": 2001, "count": 42 },
+			{ "year": 2002, "count": 22 },
+			{ "year": 2006, "count": 20 },
+			{ "year": 2007, "count": 34 },
+			{ "year": 2008, "count": 61 },
+			{ "year": 2009, "count": 31 },
+			{ "year": 2010, "count": 54 },
+			{ "year": 2011, "count": 127 },
+			{ "year": 2012, "count": 24 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2015, "count": 7 },
+			{ "year": 2017, "count": 2 },
+			{ "year": 2021, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 16,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2017, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 17,
+		"data": [
+			{ "year": 2000, "count": 3 },
+			{ "year": 2001, "count": 6 },
+			{ "year": 2002, "count": 30 },
+			{ "year": 2003, "count": 20 },
+			{ "year": 2004, "count": 22 },
+			{ "year": 2005, "count": 13 },
+			{ "year": 2006, "count": 7 },
+			{ "year": 2007, "count": 33 },
+			{ "year": 2008, "count": 20 },
+			{ "year": 2009, "count": 24 },
+			{ "year": 2010, "count": 68 },
+			{ "year": 2011, "count": 111 },
+			{ "year": 2012, "count": 76 },
+			{ "year": 2013, "count": 68 },
+			{ "year": 2014, "count": 51 },
+			{ "year": 2015, "count": 57 },
+			{ "year": 2016, "count": 62 },
+			{ "year": 2017, "count": 70 },
+			{ "year": 2018, "count": 42 },
+			{ "year": 2019, "count": 139 },
+			{ "year": 2020, "count": 60 },
+			{ "year": 2021, "count": 95 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{
+		"tax_id": 18,
+		"data": [
+			{ "year": 2004, "count": 1 },
+			{ "year": 2009, "count": 8 },
+			{ "year": 2010, "count": 17 },
+			{ "year": 2011, "count": 34 },
+			{ "year": 2012, "count": 22 },
+			{ "year": 2013, "count": 14 },
+			{ "year": 2014, "count": 15 },
+			{ "year": 2015, "count": 20 },
+			{ "year": 2016, "count": 12 },
+			{ "year": 2017, "count": 29 },
+			{ "year": 2018, "count": 22 },
+			{ "year": 2019, "count": 14 },
+			{ "year": 2020, "count": 15 },
+			{ "year": 2021, "count": 19 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 19,
+		"data": [
+			{ "year": 2003, "count": 15 },
+			{ "year": 2007, "count": 1 },
+			{ "year": 2008, "count": 1 },
+			{ "year": 2010, "count": 3 },
+			{ "year": 2011, "count": 30 },
+			{ "year": 2012, "count": 14 },
+			{ "year": 2013, "count": 29 },
+			{ "year": 2014, "count": 15 },
+			{ "year": 2015, "count": 22 },
+			{ "year": 2016, "count": 11 },
+			{ "year": 2017, "count": 8 },
+			{ "year": 2018, "count": 9 },
+			{ "year": 2019, "count": 7 },
+			{ "year": 2020, "count": 3 },
+			{ "year": 2021, "count": 3 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 20,
+		"data": [
+			{ "year": 2008, "count": 1 },
+			{ "year": 2010, "count": 2 },
+			{ "year": 2011, "count": 9 },
+			{ "year": 2012, "count": 3 },
+			{ "year": 2013, "count": 4 },
+			{ "year": 2014, "count": 3 },
+			{ "year": 2015, "count": 4 },
+			{ "year": 2016, "count": 5 },
+			{ "year": 2017, "count": 24 },
+			{ "year": 2018, "count": 8 },
+			{ "year": 2019, "count": 4 },
+			{ "year": 2020, "count": 9 },
+			{ "year": 2021, "count": 1 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 22,
+		"data": [
+			{ "year": 2002, "count": 3 },
+			{ "year": 2004, "count": 1 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2007, "count": 1 },
+			{ "year": 2009, "count": 1 },
+			{ "year": 2010, "count": 3 },
+			{ "year": 2011, "count": 7 },
+			{ "year": 2012, "count": 10 },
+			{ "year": 2013, "count": 6 },
+			{ "year": 2014, "count": 11 },
+			{ "year": 2015, "count": 6 },
+			{ "year": 2016, "count": 4 },
+			{ "year": 2017, "count": 12 },
+			{ "year": 2018, "count": 5 },
+			{ "year": 2019, "count": 4 },
+			{ "year": 2020, "count": 5 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 24,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2015, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 26,
+		"data": [
+			{ "year": 2000, "count": 3 },
+			{ "year": 2001, "count": 3 },
+			{ "year": 2002, "count": 2 },
+			{ "year": 2003, "count": 20 },
+			{ "year": 2004, "count": 23 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2009, "count": 5 },
+			{ "year": 2010, "count": 84 },
+			{ "year": 2011, "count": 207 },
+			{ "year": 2012, "count": 115 },
+			{ "year": 2013, "count": 75 },
+			{ "year": 2014, "count": 92 },
+			{ "year": 2015, "count": 90 },
+			{ "year": 2016, "count": 59 },
+			{ "year": 2017, "count": 77 },
+			{ "year": 2018, "count": 47 },
+			{ "year": 2019, "count": 35 },
+			{ "year": 2020, "count": 41 },
+			{ "year": 2021, "count": 16 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{
+		"tax_id": 27,
+		"data": [
+			{ "year": 2000, "count": 2 },
+			{ "year": 2003, "count": 20 },
+			{ "year": 2004, "count": 19 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2009, "count": 280 },
+			{ "year": 2010, "count": 377 },
+			{ "year": 2011, "count": 275 },
+			{ "year": 2012, "count": 105 },
+			{ "year": 2013, "count": 118 },
+			{ "year": 2014, "count": 79 },
+			{ "year": 2015, "count": 101 },
+			{ "year": 2016, "count": 86 },
+			{ "year": 2017, "count": 151 },
+			{ "year": 2018, "count": 76 },
+			{ "year": 2019, "count": 50 },
+			{ "year": 2020, "count": 30 },
+			{ "year": 2021, "count": 47 },
+			{ "year": "No data", "count": 19 }
+		]
+	},
+	{
+		"tax_id": 28,
+		"data": [
+			{ "year": 2012, "count": 1 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 5 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2019, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 29,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2014, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 30,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 32,
+		"data": [
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 3 },
+			{ "year": 2003, "count": 17 },
+			{ "year": 2004, "count": 15 },
+			{ "year": 2005, "count": 7 },
+			{ "year": 2009, "count": 3 },
+			{ "year": 2010, "count": 74 },
+			{ "year": 2011, "count": 124 },
+			{ "year": 2012, "count": 123 },
+			{ "year": 2013, "count": 96 },
+			{ "year": 2014, "count": 75 },
+			{ "year": 2015, "count": 92 },
+			{ "year": 2016, "count": 64 },
+			{ "year": 2017, "count": 88 },
+			{ "year": 2018, "count": 51 },
+			{ "year": 2019, "count": 52 },
+			{ "year": 2020, "count": 46 },
+			{ "year": 2021, "count": 26 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 33,
+		"data": [
+			{ "year": 2010, "count": 7 },
+			{ "year": 2011, "count": 28 },
+			{ "year": 2012, "count": 12 },
+			{ "year": 2013, "count": 8 },
+			{ "year": 2014, "count": 19 },
+			{ "year": 2015, "count": 14 },
+			{ "year": 2016, "count": 8 },
+			{ "year": 2017, "count": 22 },
+			{ "year": 2018, "count": 12 },
+			{ "year": 2019, "count": 26 },
+			{ "year": 2020, "count": 14 },
+			{ "year": 2021, "count": 17 }
+		]
+	},
+	{ "tax_id": 34, "data": [{ "year": 2011, "count": 1 }] },
+	{
+		"tax_id": 35,
+		"data": [
+			{ "year": 2000, "count": 4 },
+			{ "year": 2001, "count": 3 },
+			{ "year": 2002, "count": 7 },
+			{ "year": 2003, "count": 30 },
+			{ "year": 2004, "count": 29 },
+			{ "year": 2005, "count": 3 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2009, "count": 15 },
+			{ "year": 2010, "count": 101 },
+			{ "year": 2011, "count": 241 },
+			{ "year": 2012, "count": 156 },
+			{ "year": 2013, "count": 150 },
+			{ "year": 2014, "count": 168 },
+			{ "year": 2015, "count": 183 },
+			{ "year": 2016, "count": 96 },
+			{ "year": 2017, "count": 133 },
+			{ "year": 2018, "count": 48 },
+			{ "year": 2019, "count": 64 },
+			{ "year": 2020, "count": 72 },
+			{ "year": 2021, "count": 41 },
+			{ "year": "No data", "count": 6 }
+		]
+	},
+	{
+		"tax_id": 36,
+		"data": [
+			{ "year": 2001, "count": 1 },
+			{ "year": 2003, "count": 8 },
+			{ "year": 2004, "count": 19 },
+			{ "year": 2005, "count": 8 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2007, "count": 6 },
+			{ "year": 2008, "count": 2 },
+			{ "year": 2010, "count": 6 },
+			{ "year": 2011, "count": 5 },
+			{ "year": 2012, "count": 9 },
+			{ "year": 2013, "count": 14 },
+			{ "year": 2014, "count": 27 },
+			{ "year": 2015, "count": 9 },
+			{ "year": 2016, "count": 18 },
+			{ "year": 2017, "count": 39 },
+			{ "year": 2018, "count": 22 },
+			{ "year": 2019, "count": 21 },
+			{ "year": 2020, "count": 39 },
+			{ "year": 2021, "count": 67 }
+		]
+	},
+	{
+		"tax_id": 37,
+		"data": [
+			{ "year": 2011, "count": 3 },
+			{ "year": 2017, "count": 2 },
+			{ "year": 2018, "count": 2 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 38,
+		"data": [
+			{ "year": 2002, "count": 2 },
+			{ "year": 2010, "count": 4 },
+			{ "year": 2012, "count": 4 },
+			{ "year": 2013, "count": 3 },
+			{ "year": 2015, "count": 5 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 3 },
+			{ "year": 2019, "count": 6 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 39,
+		"data": [
+			{ "year": 2000, "count": 14 },
+			{ "year": 2001, "count": 10 },
+			{ "year": 2002, "count": 13 },
+			{ "year": 2003, "count": 18 },
+			{ "year": 2004, "count": 16 },
+			{ "year": 2005, "count": 6 },
+			{ "year": 2006, "count": 5 },
+			{ "year": 2007, "count": 3 },
+			{ "year": 2008, "count": 7 },
+			{ "year": 2009, "count": 6 },
+			{ "year": 2010, "count": 25 },
+			{ "year": 2011, "count": 41 },
+			{ "year": 2012, "count": 56 },
+			{ "year": 2013, "count": 40 },
+			{ "year": 2014, "count": 30 },
+			{ "year": 2015, "count": 19 },
+			{ "year": 2016, "count": 32 },
+			{ "year": 2017, "count": 43 },
+			{ "year": 2018, "count": 23 },
+			{ "year": 2019, "count": 13 },
+			{ "year": 2020, "count": 13 },
+			{ "year": 2021, "count": 11 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{ "tax_id": 40, "data": [{ "year": 2014, "count": 1 }] },
+	{ "tax_id": 41, "data": [{ "year": 2015, "count": 1 }] },
+	{
+		"tax_id": 44,
+		"data": [
+			{ "year": 2000, "count": 38 },
+			{ "year": 2001, "count": 25 },
+			{ "year": 2002, "count": 28 },
+			{ "year": 2003, "count": 33 },
+			{ "year": 2004, "count": 50 },
+			{ "year": 2005, "count": 3 },
+			{ "year": 2006, "count": 10 },
+			{ "year": 2009, "count": 4 },
+			{ "year": 2010, "count": 23 },
+			{ "year": 2011, "count": 78 },
+			{ "year": 2012, "count": 99 },
+			{ "year": 2013, "count": 109 },
+			{ "year": 2014, "count": 132 },
+			{ "year": 2015, "count": 102 },
+			{ "year": 2016, "count": 67 },
+			{ "year": 2017, "count": 94 },
+			{ "year": 2018, "count": 121 },
+			{ "year": 2019, "count": 89 },
+			{ "year": 2020, "count": 32 },
+			{ "year": 2021, "count": 38 },
+			{ "year": "No data", "count": 15 }
+		]
+	},
+	{
+		"tax_id": 45,
+		"data": [
+			{ "year": 2000, "count": 144 },
+			{ "year": 2001, "count": 201 },
+			{ "year": 2002, "count": 359 },
+			{ "year": 2003, "count": 370 },
+			{ "year": 2004, "count": 272 },
+			{ "year": 2005, "count": 126 },
+			{ "year": 2006, "count": 94 },
+			{ "year": 2007, "count": 151 },
+			{ "year": 2008, "count": 143 },
+			{ "year": 2009, "count": 540 },
+			{ "year": 2010, "count": 941 },
+			{ "year": 2011, "count": 1429 },
+			{ "year": 2012, "count": 761 },
+			{ "year": 2013, "count": 799 },
+			{ "year": 2014, "count": 664 },
+			{ "year": 2015, "count": 562 },
+			{ "year": 2016, "count": 380 },
+			{ "year": 2017, "count": 432 },
+			{ "year": 2018, "count": 430 },
+			{ "year": 2019, "count": 415 },
+			{ "year": 2020, "count": 273 },
+			{ "year": 2021, "count": 356 },
+			{ "year": "No data", "count": 56 }
+		]
+	},
+	{
+		"tax_id": 46,
+		"data": [
+			{ "year": 2001, "count": 6 },
+			{ "year": 2002, "count": 14 },
+			{ "year": 2003, "count": 11 },
+			{ "year": 2004, "count": 26 },
+			{ "year": 2005, "count": 18 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2007, "count": 3 },
+			{ "year": 2008, "count": 1 },
+			{ "year": 2009, "count": 2 },
+			{ "year": 2010, "count": 47 },
+			{ "year": 2011, "count": 51 },
+			{ "year": 2012, "count": 87 },
+			{ "year": 2013, "count": 68 },
+			{ "year": 2014, "count": 55 },
+			{ "year": 2015, "count": 32 },
+			{ "year": 2016, "count": 28 },
+			{ "year": 2017, "count": 49 },
+			{ "year": 2018, "count": 50 },
+			{ "year": 2019, "count": 33 },
+			{ "year": 2020, "count": 17 },
+			{ "year": 2021, "count": 19 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 47,
+		"data": [
+			{ "year": 2001, "count": 4 },
+			{ "year": 2002, "count": 14 },
+			{ "year": 2003, "count": 6 },
+			{ "year": 2004, "count": 44 },
+			{ "year": 2005, "count": 17 },
+			{ "year": 2009, "count": 18 },
+			{ "year": 2010, "count": 72 },
+			{ "year": 2011, "count": 153 },
+			{ "year": 2012, "count": 109 },
+			{ "year": 2013, "count": 50 },
+			{ "year": 2014, "count": 72 },
+			{ "year": 2015, "count": 49 },
+			{ "year": 2016, "count": 46 },
+			{ "year": 2017, "count": 50 },
+			{ "year": 2018, "count": 32 },
+			{ "year": 2019, "count": 77 },
+			{ "year": 2020, "count": 44 },
+			{ "year": 2021, "count": 28 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 49,
+		"data": [
+			{ "year": 2000, "count": 19 },
+			{ "year": 2001, "count": 13 },
+			{ "year": 2002, "count": 69 },
+			{ "year": 2003, "count": 97 },
+			{ "year": 2004, "count": 88 },
+			{ "year": 2005, "count": 7 },
+			{ "year": 2006, "count": 44 },
+			{ "year": 2007, "count": 55 },
+			{ "year": 2008, "count": 37 },
+			{ "year": 2009, "count": 148 },
+			{ "year": 2010, "count": 339 },
+			{ "year": 2011, "count": 450 },
+			{ "year": 2012, "count": 304 },
+			{ "year": 2013, "count": 245 },
+			{ "year": 2014, "count": 240 },
+			{ "year": 2015, "count": 208 },
+			{ "year": 2016, "count": 152 },
+			{ "year": 2017, "count": 197 },
+			{ "year": 2018, "count": 123 },
+			{ "year": 2019, "count": 106 },
+			{ "year": 2020, "count": 58 },
+			{ "year": 2021, "count": 119 },
+			{ "year": "No data", "count": 14 }
+		]
+	},
+	{
+		"tax_id": 50,
+		"data": [
+			{ "year": 2000, "count": 16 },
+			{ "year": 2001, "count": 29 },
+			{ "year": 2002, "count": 35 },
+			{ "year": 2003, "count": 53 },
+			{ "year": 2004, "count": 49 },
+			{ "year": 2005, "count": 9 },
+			{ "year": 2006, "count": 44 },
+			{ "year": 2007, "count": 38 },
+			{ "year": 2008, "count": 20 },
+			{ "year": 2009, "count": 15 },
+			{ "year": 2010, "count": 129 },
+			{ "year": 2011, "count": 282 },
+			{ "year": 2012, "count": 309 },
+			{ "year": 2013, "count": 188 },
+			{ "year": 2014, "count": 233 },
+			{ "year": 2015, "count": 184 },
+			{ "year": 2016, "count": 120 },
+			{ "year": 2017, "count": 174 },
+			{ "year": 2018, "count": 144 },
+			{ "year": 2019, "count": 108 },
+			{ "year": 2020, "count": 92 },
+			{ "year": 2021, "count": 53 },
+			{ "year": "No data", "count": 14 }
+		]
+	},
+	{
+		"tax_id": 51,
+		"data": [
+			{ "year": 2000, "count": 5 },
+			{ "year": 2003, "count": 27 },
+			{ "year": 2004, "count": 34 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2009, "count": 1 },
+			{ "year": 2010, "count": 39 },
+			{ "year": 2011, "count": 77 },
+			{ "year": 2012, "count": 44 },
+			{ "year": 2013, "count": 61 },
+			{ "year": 2014, "count": 64 },
+			{ "year": 2015, "count": 42 },
+			{ "year": 2016, "count": 43 },
+			{ "year": 2017, "count": 73 },
+			{ "year": 2018, "count": 33 },
+			{ "year": 2019, "count": 14 },
+			{ "year": 2020, "count": 13 },
+			{ "year": 2021, "count": 16 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 53,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2012, "count": 1 },
+			{ "year": 2013, "count": 2 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2017, "count": 2 },
+			{ "year": 2018, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 54,
+		"data": [
+			{ "year": 2000, "count": 40 },
+			{ "year": 2001, "count": 17 },
+			{ "year": 2002, "count": 38 },
+			{ "year": 2003, "count": 48 },
+			{ "year": 2004, "count": 70 },
+			{ "year": 2005, "count": 2 },
+			{ "year": 2006, "count": 38 },
+			{ "year": 2007, "count": 21 },
+			{ "year": 2008, "count": 15 },
+			{ "year": 2009, "count": 96 },
+			{ "year": 2010, "count": 184 },
+			{ "year": 2011, "count": 214 },
+			{ "year": 2012, "count": 118 },
+			{ "year": 2013, "count": 115 },
+			{ "year": 2014, "count": 126 },
+			{ "year": 2015, "count": 83 },
+			{ "year": 2016, "count": 75 },
+			{ "year": 2017, "count": 118 },
+			{ "year": 2018, "count": 77 },
+			{ "year": 2019, "count": 52 },
+			{ "year": 2020, "count": 25 },
+			{ "year": 2021, "count": 36 },
+			{ "year": "No data", "count": 10 }
+		]
+	},
+	{ "tax_id": 55, "data": [{ "year": 2016, "count": 2 }] },
+	{
+		"tax_id": 57,
+		"data": [
+			{ "year": 2013, "count": 1 },
+			{ "year": 2014, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 58,
+		"data": [
+			{ "year": 2000, "count": 7 },
+			{ "year": 2001, "count": 4 },
+			{ "year": 2002, "count": 9 },
+			{ "year": 2003, "count": 13 },
+			{ "year": 2004, "count": 16 },
+			{ "year": 2005, "count": 8 },
+			{ "year": 2006, "count": 3 },
+			{ "year": 2007, "count": 5 },
+			{ "year": 2008, "count": 13 },
+			{ "year": 2009, "count": 5 },
+			{ "year": 2010, "count": 12 },
+			{ "year": 2011, "count": 26 },
+			{ "year": 2012, "count": 22 },
+			{ "year": 2013, "count": 27 },
+			{ "year": 2014, "count": 29 },
+			{ "year": 2015, "count": 38 },
+			{ "year": 2016, "count": 29 },
+			{ "year": 2017, "count": 33 },
+			{ "year": 2018, "count": 24 },
+			{ "year": 2019, "count": 21 },
+			{ "year": 2020, "count": 14 },
+			{ "year": 2021, "count": 16 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{
+		"tax_id": 60,
+		"data": [
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 1 },
+			{ "year": 2005, "count": 2 },
+			{ "year": 2007, "count": 1 },
+			{ "year": 2009, "count": 9 },
+			{ "year": 2010, "count": 72 },
+			{ "year": 2011, "count": 75 },
+			{ "year": 2012, "count": 77 },
+			{ "year": 2013, "count": 39 },
+			{ "year": 2014, "count": 72 },
+			{ "year": 2015, "count": 52 },
+			{ "year": 2016, "count": 25 },
+			{ "year": 2017, "count": 49 },
+			{ "year": 2018, "count": 39 },
+			{ "year": 2019, "count": 33 },
+			{ "year": 2020, "count": 18 },
+			{ "year": 2021, "count": 44 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 62,
+		"data": [
+			{ "year": 2000, "count": 1 },
+			{ "year": 2001, "count": 1 },
+			{ "year": 2002, "count": 3 },
+			{ "year": 2003, "count": 9 },
+			{ "year": 2004, "count": 6 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2009, "count": 9 },
+			{ "year": 2010, "count": 44 },
+			{ "year": 2011, "count": 125 },
+			{ "year": 2012, "count": 84 },
+			{ "year": 2013, "count": 55 },
+			{ "year": 2014, "count": 38 },
+			{ "year": 2015, "count": 47 },
+			{ "year": 2016, "count": 18 },
+			{ "year": 2017, "count": 35 },
+			{ "year": 2018, "count": 25 },
+			{ "year": 2019, "count": 28 },
+			{ "year": 2020, "count": 26 },
+			{ "year": 2021, "count": 18 }
+		]
+	},
+	{
+		"tax_id": 63,
+		"data": [
+			{ "year": 2009, "count": 2 },
+			{ "year": 2010, "count": 3 },
+			{ "year": 2012, "count": 8 },
+			{ "year": 2013, "count": 9 },
+			{ "year": 2014, "count": 29 },
+			{ "year": 2015, "count": 18 },
+			{ "year": 2016, "count": 19 },
+			{ "year": 2017, "count": 28 },
+			{ "year": 2018, "count": 14 },
+			{ "year": 2019, "count": 13 },
+			{ "year": 2020, "count": 4 },
+			{ "year": 2021, "count": 4 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 64,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 68,
+		"data": [
+			{ "year": 2000, "count": 9 },
+			{ "year": 2001, "count": 27 },
+			{ "year": 2002, "count": 49 },
+			{ "year": 2003, "count": 49 },
+			{ "year": 2004, "count": 27 },
+			{ "year": 2005, "count": 4 },
+			{ "year": 2006, "count": 15 },
+			{ "year": 2007, "count": 12 },
+			{ "year": 2008, "count": 14 },
+			{ "year": 2009, "count": 38 },
+			{ "year": 2010, "count": 201 },
+			{ "year": 2011, "count": 334 },
+			{ "year": 2012, "count": 299 },
+			{ "year": 2013, "count": 273 },
+			{ "year": 2014, "count": 291 },
+			{ "year": 2015, "count": 226 },
+			{ "year": 2016, "count": 152 },
+			{ "year": 2017, "count": 185 },
+			{ "year": 2018, "count": 177 },
+			{ "year": 2019, "count": 136 },
+			{ "year": 2020, "count": 70 },
+			{ "year": 2021, "count": 96 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{
+		"tax_id": 71,
+		"data": [
+			{ "year": 2000, "count": 5 },
+			{ "year": 2001, "count": 5 },
+			{ "year": 2002, "count": 9 },
+			{ "year": 2003, "count": 8 },
+			{ "year": 2004, "count": 2 },
+			{ "year": 2005, "count": 4 },
+			{ "year": 2008, "count": 1 },
+			{ "year": 2009, "count": 11 },
+			{ "year": 2010, "count": 65 },
+			{ "year": 2011, "count": 196 },
+			{ "year": 2012, "count": 125 },
+			{ "year": 2013, "count": 99 },
+			{ "year": 2014, "count": 58 },
+			{ "year": 2015, "count": 67 },
+			{ "year": 2016, "count": 45 },
+			{ "year": 2017, "count": 39 },
+			{ "year": 2018, "count": 34 },
+			{ "year": 2019, "count": 40 },
+			{ "year": 2020, "count": 18 },
+			{ "year": 2021, "count": 26 },
+			{ "year": "No data", "count": 3 }
+		]
+	},
+	{
+		"tax_id": 72,
+		"data": [
+			{ "year": 2000, "count": 4 },
+			{ "year": 2001, "count": 1 },
+			{ "year": 2002, "count": 10 },
+			{ "year": 2003, "count": 7 },
+			{ "year": 2004, "count": 21 },
+			{ "year": 2005, "count": 7 },
+			{ "year": 2006, "count": 2 },
+			{ "year": 2007, "count": 2 },
+			{ "year": 2009, "count": 13 },
+			{ "year": 2010, "count": 61 },
+			{ "year": 2011, "count": 139 },
+			{ "year": 2012, "count": 91 },
+			{ "year": 2013, "count": 90 },
+			{ "year": 2014, "count": 81 },
+			{ "year": 2015, "count": 68 },
+			{ "year": 2016, "count": 55 },
+			{ "year": 2017, "count": 78 },
+			{ "year": 2018, "count": 100 },
+			{ "year": 2019, "count": 66 },
+			{ "year": 2020, "count": 29 },
+			{ "year": 2021, "count": 32 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{
+		"tax_id": 73,
+		"data": [
+			{ "year": 2000, "count": 4 },
+			{ "year": 2002, "count": 3 },
+			{ "year": 2003, "count": 10 },
+			{ "year": 2004, "count": 1 },
+			{ "year": 2006, "count": 3 },
+			{ "year": 2007, "count": 4 },
+			{ "year": 2008, "count": 8 },
+			{ "year": 2009, "count": 2 },
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 3 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2014, "count": 4 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2017, "count": 5 },
+			{ "year": 2018, "count": 5 },
+			{ "year": 2020, "count": 4 },
+			{ "year": 2021, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 74,
+		"data": [
+			{ "year": 2010, "count": 3 },
+			{ "year": 2011, "count": 4 },
+			{ "year": 2012, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 76,
+		"data": [
+			{ "year": 2000, "count": 12 },
+			{ "year": 2001, "count": 4 },
+			{ "year": 2002, "count": 7 },
+			{ "year": 2003, "count": 28 },
+			{ "year": 2004, "count": 12 },
+			{ "year": 2005, "count": 6 },
+			{ "year": 2006, "count": 3 },
+			{ "year": 2007, "count": 5 },
+			{ "year": 2008, "count": 6 },
+			{ "year": 2009, "count": 3 },
+			{ "year": 2010, "count": 70 },
+			{ "year": 2011, "count": 166 },
+			{ "year": 2012, "count": 124 },
+			{ "year": 2013, "count": 93 },
+			{ "year": 2014, "count": 108 },
+			{ "year": 2015, "count": 98 },
+			{ "year": 2016, "count": 73 },
+			{ "year": 2017, "count": 112 },
+			{ "year": 2018, "count": 87 },
+			{ "year": 2019, "count": 67 },
+			{ "year": 2020, "count": 70 },
+			{ "year": 2021, "count": 58 },
+			{ "year": "No data", "count": 10 }
+		]
+	},
+	{
+		"tax_id": 78,
+		"data": [
+			{ "year": 2000, "count": 2 },
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 9 },
+			{ "year": 2003, "count": 15 },
+			{ "year": 2004, "count": 28 },
+			{ "year": 2005, "count": 8 },
+			{ "year": 2006, "count": 2 },
+			{ "year": 2008, "count": 1 },
+			{ "year": 2010, "count": 7 },
+			{ "year": 2011, "count": 13 },
+			{ "year": 2012, "count": 19 },
+			{ "year": 2013, "count": 14 },
+			{ "year": 2014, "count": 17 },
+			{ "year": 2015, "count": 18 },
+			{ "year": 2016, "count": 16 },
+			{ "year": 2017, "count": 24 },
+			{ "year": 2018, "count": 12 },
+			{ "year": 2019, "count": 17 },
+			{ "year": 2020, "count": 6 },
+			{ "year": 2021, "count": 7 }
+		]
+	},
+	{
+		"tax_id": 79,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 4 },
+			{ "year": 2018, "count": 3 },
+			{ "year": 2019, "count": 4 },
+			{ "year": 2020, "count": 2 },
+			{ "year": 2021, "count": 3 }
+		]
+	},
+	{ "tax_id": 80, "data": [{ "year": 2002, "count": 2 }] },
+	{
+		"tax_id": 81,
+		"data": [
+			{ "year": 2000, "count": 8 },
+			{ "year": 2001, "count": 6 },
+			{ "year": 2002, "count": 3 },
+			{ "year": 2003, "count": 4 },
+			{ "year": 2004, "count": 7 },
+			{ "year": 2007, "count": 4 },
+			{ "year": 2008, "count": 6 },
+			{ "year": 2009, "count": 10 },
+			{ "year": 2010, "count": 21 },
+			{ "year": 2011, "count": 13 },
+			{ "year": 2012, "count": 26 },
+			{ "year": 2013, "count": 26 },
+			{ "year": 2014, "count": 19 },
+			{ "year": 2015, "count": 17 },
+			{ "year": 2016, "count": 26 },
+			{ "year": 2017, "count": 12 },
+			{ "year": 2018, "count": 16 },
+			{ "year": 2019, "count": 6 },
+			{ "year": 2020, "count": 8 },
+			{ "year": 2021, "count": 22 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 83,
+		"data": [
+			{ "year": 2000, "count": 20 },
+			{ "year": 2001, "count": 50 },
+			{ "year": 2002, "count": 62 },
+			{ "year": 2003, "count": 100 },
+			{ "year": 2004, "count": 53 },
+			{ "year": 2005, "count": 18 },
+			{ "year": 2006, "count": 18 },
+			{ "year": 2007, "count": 51 },
+			{ "year": 2008, "count": 72 },
+			{ "year": 2009, "count": 84 },
+			{ "year": 2010, "count": 134 },
+			{ "year": 2011, "count": 138 },
+			{ "year": 2012, "count": 85 },
+			{ "year": 2013, "count": 72 },
+			{ "year": 2014, "count": 83 },
+			{ "year": 2015, "count": 91 },
+			{ "year": 2016, "count": 92 },
+			{ "year": 2017, "count": 135 },
+			{ "year": 2018, "count": 126 },
+			{ "year": 2019, "count": 80 },
+			{ "year": 2020, "count": 117 },
+			{ "year": 2021, "count": 159 },
+			{ "year": "No data", "count": 5 }
+		]
+	},
+	{
+		"tax_id": 84,
+		"data": [
+			{ "year": 2004, "count": 1 },
+			{ "year": 2014, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 85,
+		"data": [
+			{ "year": 2013, "count": 1 },
+			{ "year": 2014, "count": 2 },
+			{ "year": 2015, "count": 1 }
+		]
+	},
+	{ "tax_id": 86, "data": [{ "year": 2021, "count": 1 }] },
+	{
+		"tax_id": 87,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2018, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 88,
+		"data": [
+			{ "year": 1999, "count": 3 },
+			{ "year": 2000, "count": 79 },
+			{ "year": 2001, "count": 83 },
+			{ "year": 2002, "count": 121 },
+			{ "year": 2003, "count": 133 },
+			{ "year": 2004, "count": 142 },
+			{ "year": 2005, "count": 63 },
+			{ "year": 2006, "count": 94 },
+			{ "year": 2007, "count": 128 },
+			{ "year": 2008, "count": 153 },
+			{ "year": 2009, "count": 208 },
+			{ "year": 2010, "count": 290 },
+			{ "year": 2011, "count": 271 },
+			{ "year": 2012, "count": 193 },
+			{ "year": 2013, "count": 186 },
+			{ "year": 2014, "count": 191 },
+			{ "year": 2015, "count": 236 },
+			{ "year": 2016, "count": 269 },
+			{ "year": 2017, "count": 395 },
+			{ "year": 2018, "count": 220 },
+			{ "year": 2019, "count": 203 },
+			{ "year": 2020, "count": 252 },
+			{ "year": 2021, "count": 225 },
+			{ "year": "No data", "count": 21 }
+		]
+	},
+	{ "tax_id": 92, "data": [{ "year": 2020, "count": 1 }] },
+	{
+		"tax_id": 96,
+		"data": [
+			{ "year": 2000, "count": 4 },
+			{ "year": 2001, "count": 3 },
+			{ "year": 2002, "count": 9 },
+			{ "year": 2003, "count": 46 },
+			{ "year": 2004, "count": 75 },
+			{ "year": 2005, "count": 19 },
+			{ "year": 2009, "count": 11 },
+			{ "year": 2010, "count": 33 },
+			{ "year": 2011, "count": 210 },
+			{ "year": 2012, "count": 194 },
+			{ "year": 2013, "count": 251 },
+			{ "year": 2014, "count": 132 },
+			{ "year": 2015, "count": 104 },
+			{ "year": 2016, "count": 65 },
+			{ "year": 2017, "count": 99 },
+			{ "year": 2018, "count": 94 },
+			{ "year": 2019, "count": 117 },
+			{ "year": 2020, "count": 37 },
+			{ "year": 2021, "count": 25 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 97,
+		"data": [
+			{ "year": 2000, "count": 4 },
+			{ "year": 2004, "count": 1 },
+			{ "year": 2007, "count": 2 },
+			{ "year": 2009, "count": 9 },
+			{ "year": 2010, "count": 15 },
+			{ "year": 2011, "count": 28 },
+			{ "year": 2012, "count": 21 },
+			{ "year": 2013, "count": 18 },
+			{ "year": 2014, "count": 28 },
+			{ "year": 2015, "count": 22 },
+			{ "year": 2016, "count": 10 },
+			{ "year": 2017, "count": 29 },
+			{ "year": 2018, "count": 8 },
+			{ "year": 2019, "count": 5 },
+			{ "year": 2020, "count": 8 },
+			{ "year": 2021, "count": 16 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 99,
+		"data": [
+			{ "year": 2000, "count": 4 },
+			{ "year": 2001, "count": 1 },
+			{ "year": 2003, "count": 37 },
+			{ "year": 2004, "count": 4 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2009, "count": 62 },
+			{ "year": 2010, "count": 31 },
+			{ "year": 2011, "count": 35 },
+			{ "year": 2012, "count": 11 },
+			{ "year": 2013, "count": 14 },
+			{ "year": 2014, "count": 10 },
+			{ "year": 2015, "count": 11 },
+			{ "year": 2016, "count": 8 },
+			{ "year": 2017, "count": 20 },
+			{ "year": 2018, "count": 12 },
+			{ "year": 2019, "count": 13 },
+			{ "year": 2020, "count": 6 },
+			{ "year": 2021, "count": 4 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 103,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2014, "count": 1 }
+		]
+	},
+	{ "tax_id": 104, "data": [{ "year": 2021, "count": 1 }] },
+	{
+		"tax_id": 106,
+		"data": [
+			{ "year": 2002, "count": 1 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2012, "count": 8 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 9 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 107,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 10 },
+			{ "year": 2013, "count": 9 },
+			{ "year": 2014, "count": 6 },
+			{ "year": 2016, "count": 5 },
+			{ "year": 2017, "count": 19 },
+			{ "year": 2018, "count": 6 },
+			{ "year": 2019, "count": 13 },
+			{ "year": 2020, "count": 8 },
+			{ "year": 2021, "count": 7 }
+		]
+	},
+	{
+		"tax_id": 108,
+		"data": [
+			{ "year": 2000, "count": 4 },
+			{ "year": 2001, "count": 2 },
+			{ "year": 2003, "count": 7 },
+			{ "year": 2004, "count": 17 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2009, "count": 5 },
+			{ "year": 2010, "count": 13 },
+			{ "year": 2011, "count": 12 },
+			{ "year": 2012, "count": 6 },
+			{ "year": 2013, "count": 6 },
+			{ "year": 2014, "count": 5 },
+			{ "year": 2015, "count": 15 },
+			{ "year": 2016, "count": 13 },
+			{ "year": 2017, "count": 10 },
+			{ "year": 2018, "count": 12 },
+			{ "year": 2019, "count": 8 },
+			{ "year": 2020, "count": 5 },
+			{ "year": 2021, "count": 8 }
+		]
+	},
+	{
+		"tax_id": 109,
+		"data": [
+			{ "year": 2004, "count": 1 },
+			{ "year": 2012, "count": 1 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 8 },
+			{ "year": 2016, "count": 15 },
+			{ "year": 2017, "count": 29 },
+			{ "year": 2018, "count": 26 },
+			{ "year": 2019, "count": 18 },
+			{ "year": 2020, "count": 14 },
+			{ "year": 2021, "count": 15 }
+		]
+	},
+	{
+		"tax_id": 110,
+		"data": [
+			{ "year": 2003, "count": 2 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2007, "count": 3 },
+			{ "year": 2008, "count": 2 },
+			{ "year": 2009, "count": 7 },
+			{ "year": 2010, "count": 170 },
+			{ "year": 2011, "count": 65 },
+			{ "year": 2012, "count": 69 },
+			{ "year": 2013, "count": 41 },
+			{ "year": 2014, "count": 36 },
+			{ "year": 2015, "count": 37 },
+			{ "year": 2016, "count": 30 },
+			{ "year": 2017, "count": 60 },
+			{ "year": 2018, "count": 25 },
+			{ "year": 2019, "count": 27 },
+			{ "year": 2020, "count": 21 },
+			{ "year": 2021, "count": 39 }
+		]
+	},
+	{ "tax_id": 111, "data": [{ "year": 2016, "count": 1 }] },
+	{ "tax_id": 112, "data": [{ "year": 2016, "count": 1 }] },
+	{
+		"tax_id": 113,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2013, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 114,
+		"data": [
+			{ "year": 2005, "count": 1 },
+			{ "year": 2012, "count": 1 },
+			{ "year": 2013, "count": 2 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2017, "count": 7 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 115,
+		"data": [
+			{ "year": 2013, "count": 2 },
+			{ "year": 2017, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 117,
+		"data": [
+			{ "year": 2003, "count": 13 },
+			{ "year": 2004, "count": 14 },
+			{ "year": 2005, "count": 2 },
+			{ "year": 2009, "count": 2 },
+			{ "year": 2010, "count": 17 },
+			{ "year": 2011, "count": 95 },
+			{ "year": 2012, "count": 45 },
+			{ "year": 2013, "count": 54 },
+			{ "year": 2014, "count": 45 },
+			{ "year": 2015, "count": 46 },
+			{ "year": 2016, "count": 29 },
+			{ "year": 2017, "count": 45 },
+			{ "year": 2018, "count": 40 },
+			{ "year": 2019, "count": 25 },
+			{ "year": 2020, "count": 35 },
+			{ "year": 2021, "count": 10 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 123,
+		"data": [
+			{ "year": 2009, "count": 1 },
+			{ "year": 2010, "count": 1 },
+			{ "year": 2012, "count": 1 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2018, "count": 2 },
+			{ "year": 2019, "count": 10 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 124,
+		"data": [
+			{ "year": 2000, "count": 1 },
+			{ "year": 2001, "count": 3 },
+			{ "year": 2002, "count": 6 },
+			{ "year": 2003, "count": 3 },
+			{ "year": 2006, "count": 3 },
+			{ "year": 2010, "count": 9 },
+			{ "year": 2011, "count": 11 },
+			{ "year": 2012, "count": 32 },
+			{ "year": 2013, "count": 9 },
+			{ "year": 2014, "count": 20 },
+			{ "year": 2015, "count": 19 },
+			{ "year": 2016, "count": 11 },
+			{ "year": 2017, "count": 10 },
+			{ "year": 2018, "count": 7 },
+			{ "year": 2019, "count": 6 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 4 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{ "tax_id": 125, "data": [{ "year": "No data", "count": 2 }] },
+	{
+		"tax_id": 128,
+		"data": [
+			{ "year": 2000, "count": 30 },
+			{ "year": 2001, "count": 20 },
+			{ "year": 2002, "count": 25 },
+			{ "year": 2003, "count": 21 },
+			{ "year": 2004, "count": 15 },
+			{ "year": 2005, "count": 14 },
+			{ "year": 2006, "count": 10 },
+			{ "year": 2007, "count": 14 },
+			{ "year": 2008, "count": 22 },
+			{ "year": 2009, "count": 38 },
+			{ "year": 2010, "count": 69 },
+			{ "year": 2011, "count": 96 },
+			{ "year": 2012, "count": 89 },
+			{ "year": 2013, "count": 65 },
+			{ "year": 2014, "count": 73 },
+			{ "year": 2015, "count": 87 },
+			{ "year": 2016, "count": 59 },
+			{ "year": 2017, "count": 58 },
+			{ "year": 2018, "count": 38 },
+			{ "year": 2019, "count": 29 },
+			{ "year": 2020, "count": 29 },
+			{ "year": 2021, "count": 41 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{
+		"tax_id": 130,
+		"data": [
+			{ "year": 2002, "count": 1 },
+			{ "year": 2003, "count": 5 },
+			{ "year": 2004, "count": 2 },
+			{ "year": 2009, "count": 3 },
+			{ "year": 2010, "count": 5 },
+			{ "year": 2011, "count": 17 },
+			{ "year": 2012, "count": 19 },
+			{ "year": 2013, "count": 7 },
+			{ "year": 2014, "count": 18 },
+			{ "year": 2015, "count": 16 },
+			{ "year": 2016, "count": 21 },
+			{ "year": 2017, "count": 14 },
+			{ "year": 2018, "count": 11 },
+			{ "year": 2019, "count": 23 },
+			{ "year": 2020, "count": 4 },
+			{ "year": 2021, "count": 18 },
+			{ "year": "No data", "count": 3 }
+		]
+	},
+	{
+		"tax_id": 131,
+		"data": [
+			{ "year": 2003, "count": 1 },
+			{ "year": 2004, "count": 1 },
+			{ "year": 2009, "count": 1 },
+			{ "year": 2011, "count": 1 },
+			{ "year": 2013, "count": 4 },
+			{ "year": 2014, "count": 3 },
+			{ "year": 2015, "count": 7 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2018, "count": 3 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 6 }
+		]
+	},
+	{
+		"tax_id": 132,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 1 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2021, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 133,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 134,
+		"data": [
+			{ "year": 2000, "count": 46 },
+			{ "year": 2001, "count": 46 },
+			{ "year": 2002, "count": 102 },
+			{ "year": 2003, "count": 119 },
+			{ "year": 2004, "count": 113 },
+			{ "year": 2005, "count": 58 },
+			{ "year": 2006, "count": 26 },
+			{ "year": 2007, "count": 61 },
+			{ "year": 2008, "count": 112 },
+			{ "year": 2009, "count": 131 },
+			{ "year": 2010, "count": 165 },
+			{ "year": 2011, "count": 156 },
+			{ "year": 2012, "count": 154 },
+			{ "year": 2013, "count": 134 },
+			{ "year": 2014, "count": 115 },
+			{ "year": 2015, "count": 90 },
+			{ "year": 2016, "count": 94 },
+			{ "year": 2017, "count": 130 },
+			{ "year": 2018, "count": 95 },
+			{ "year": 2019, "count": 71 },
+			{ "year": 2020, "count": 88 },
+			{ "year": 2021, "count": 50 },
+			{ "year": "No data", "count": 11 }
+		]
+	},
+	{
+		"tax_id": 135,
+		"data": [
+			{ "year": 2000, "count": 2 },
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 1 },
+			{ "year": 2003, "count": 2 },
+			{ "year": 2004, "count": 1 },
+			{ "year": 2005, "count": 3 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2007, "count": 2 },
+			{ "year": 2008, "count": 5 },
+			{ "year": 2009, "count": 10 },
+			{ "year": 2010, "count": 7 },
+			{ "year": 2011, "count": 14 },
+			{ "year": 2012, "count": 8 },
+			{ "year": 2013, "count": 6 },
+			{ "year": 2014, "count": 3 },
+			{ "year": 2015, "count": 5 },
+			{ "year": 2016, "count": 9 },
+			{ "year": 2017, "count": 6 },
+			{ "year": 2018, "count": 4 },
+			{ "year": 2019, "count": 3 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 13 }
+		]
+	},
+	{
+		"tax_id": 136,
+		"data": [
+			{ "year": 2000, "count": 125 },
+			{ "year": 2001, "count": 217 },
+			{ "year": 2002, "count": 301 },
+			{ "year": 2003, "count": 390 },
+			{ "year": 2004, "count": 357 },
+			{ "year": 2005, "count": 213 },
+			{ "year": 2006, "count": 18 },
+			{ "year": 2007, "count": 7 },
+			{ "year": 2009, "count": 143 },
+			{ "year": 2010, "count": 353 },
+			{ "year": 2011, "count": 632 },
+			{ "year": 2012, "count": 656 },
+			{ "year": 2013, "count": 744 },
+			{ "year": 2014, "count": 799 },
+			{ "year": 2015, "count": 723 },
+			{ "year": 2016, "count": 670 },
+			{ "year": 2017, "count": 817 },
+			{ "year": 2018, "count": 676 },
+			{ "year": 2019, "count": 819 },
+			{ "year": 2020, "count": 604 },
+			{ "year": 2021, "count": 730 },
+			{ "year": "No data", "count": 28 }
+		]
+	},
+	{
+		"tax_id": 137,
+		"data": [
+			{ "year": 2001, "count": 1 },
+			{ "year": 2002, "count": 10 },
+			{ "year": 2003, "count": 5 },
+			{ "year": 2004, "count": 4 },
+			{ "year": 2005, "count": 5 },
+			{ "year": 2009, "count": 4 },
+			{ "year": 2010, "count": 68 },
+			{ "year": 2011, "count": 109 },
+			{ "year": 2012, "count": 90 },
+			{ "year": 2013, "count": 85 },
+			{ "year": 2014, "count": 79 },
+			{ "year": 2015, "count": 58 },
+			{ "year": 2016, "count": 43 },
+			{ "year": 2017, "count": 41 },
+			{ "year": 2018, "count": 44 },
+			{ "year": 2019, "count": 30 },
+			{ "year": 2020, "count": 12 },
+			{ "year": 2021, "count": 10 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{
+		"tax_id": 138,
+		"data": [
+			{ "year": 2000, "count": 2 },
+			{ "year": 2001, "count": 4 },
+			{ "year": 2002, "count": 6 },
+			{ "year": 2003, "count": 3 },
+			{ "year": 2004, "count": 9 },
+			{ "year": 2005, "count": 4 },
+			{ "year": 2008, "count": 2 },
+			{ "year": 2009, "count": 15 },
+			{ "year": 2010, "count": 15 },
+			{ "year": 2011, "count": 27 },
+			{ "year": 2012, "count": 18 },
+			{ "year": 2013, "count": 17 },
+			{ "year": 2014, "count": 11 },
+			{ "year": 2015, "count": 17 },
+			{ "year": 2016, "count": 10 },
+			{ "year": 2017, "count": 18 },
+			{ "year": 2018, "count": 16 },
+			{ "year": 2019, "count": 17 },
+			{ "year": 2020, "count": 5 },
+			{ "year": 2021, "count": 3 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{ "tax_id": 139, "data": [{ "year": 2011, "count": 1 }] },
+	{
+		"tax_id": 140,
+		"data": [
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 142,
+		"data": [
+			{ "year": 2010, "count": 2 },
+			{ "year": 2011, "count": 5 },
+			{ "year": 2012, "count": 9 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2014, "count": 4 },
+			{ "year": 2015, "count": 3 },
+			{ "year": 2016, "count": 5 },
+			{ "year": 2017, "count": 16 },
+			{ "year": 2018, "count": 4 },
+			{ "year": 2019, "count": 10 },
+			{ "year": 2020, "count": 11 },
+			{ "year": 2021, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 143,
+		"data": [
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 1 },
+			{ "year": 2003, "count": 1 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 146,
+		"data": [
+			{ "year": 2009, "count": 1 },
+			{ "year": 2010, "count": 4 },
+			{ "year": 2011, "count": 10 },
+			{ "year": 2012, "count": 14 },
+			{ "year": 2013, "count": 14 },
+			{ "year": 2014, "count": 8 },
+			{ "year": 2015, "count": 19 },
+			{ "year": 2016, "count": 6 },
+			{ "year": 2017, "count": 16 },
+			{ "year": 2018, "count": 8 },
+			{ "year": 2019, "count": 5 },
+			{ "year": 2020, "count": 2 },
+			{ "year": 2021, "count": 10 }
+		]
+	},
+	{
+		"tax_id": 147,
+		"data": [
+			{ "year": 2010, "count": 4 },
+			{ "year": 2011, "count": 17 },
+			{ "year": 2012, "count": 8 },
+			{ "year": 2013, "count": 12 },
+			{ "year": 2014, "count": 5 },
+			{ "year": 2015, "count": 10 },
+			{ "year": 2016, "count": 7 },
+			{ "year": 2017, "count": 4 },
+			{ "year": 2018, "count": 8 },
+			{ "year": 2019, "count": 5 },
+			{ "year": 2020, "count": 9 },
+			{ "year": 2021, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 148,
+		"data": [
+			{ "year": 2002, "count": 3 },
+			{ "year": 2003, "count": 1 },
+			{ "year": 2010, "count": 9 },
+			{ "year": 2011, "count": 4 },
+			{ "year": 2012, "count": 4 },
+			{ "year": 2013, "count": 3 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2018, "count": 5 },
+			{ "year": 2019, "count": 4 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 149,
+		"data": [
+			{ "year": 2004, "count": 1 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2018, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 150,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2016, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 151,
+		"data": [
+			{ "year": 2000, "count": 1 },
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 3 },
+			{ "year": 2003, "count": 11 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2009, "count": 5 },
+			{ "year": 2010, "count": 29 },
+			{ "year": 2011, "count": 148 },
+			{ "year": 2012, "count": 131 },
+			{ "year": 2013, "count": 119 },
+			{ "year": 2014, "count": 111 },
+			{ "year": 2015, "count": 85 },
+			{ "year": 2016, "count": 36 },
+			{ "year": 2017, "count": 55 },
+			{ "year": 2018, "count": 29 },
+			{ "year": 2019, "count": 14 },
+			{ "year": 2020, "count": 20 },
+			{ "year": 2021, "count": 18 },
+			{ "year": "No data", "count": 3 }
+		]
+	},
+	{
+		"tax_id": 152,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 1 },
+			{ "year": 2019, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 154,
+		"data": [
+			{ "year": 2000, "count": 1 },
+			{ "year": 2002, "count": 2 },
+			{ "year": 2003, "count": 9 },
+			{ "year": 2004, "count": 2 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2009, "count": 2 },
+			{ "year": 2010, "count": 18 },
+			{ "year": 2011, "count": 51 },
+			{ "year": 2012, "count": 55 },
+			{ "year": 2013, "count": 35 },
+			{ "year": 2014, "count": 30 },
+			{ "year": 2015, "count": 40 },
+			{ "year": 2016, "count": 21 },
+			{ "year": 2017, "count": 37 },
+			{ "year": 2018, "count": 16 },
+			{ "year": 2019, "count": 16 },
+			{ "year": 2020, "count": 11 },
+			{ "year": 2021, "count": 5 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 158,
+		"data": [
+			{ "year": 2003, "count": 3 },
+			{ "year": 2004, "count": 4 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2007, "count": 3 },
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 7 },
+			{ "year": 2012, "count": 7 },
+			{ "year": 2013, "count": 4 },
+			{ "year": 2014, "count": 2 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 8 },
+			{ "year": 2017, "count": 10 },
+			{ "year": 2018, "count": 4 },
+			{ "year": 2019, "count": 5 },
+			{ "year": 2020, "count": 3 },
+			{ "year": 2021, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 160,
+		"data": [
+			{ "year": 2000, "count": 2 },
+			{ "year": 2001, "count": 1 },
+			{ "year": 2004, "count": 1 },
+			{ "year": 2009, "count": 1 },
+			{ "year": 2010, "count": 3 },
+			{ "year": 2011, "count": 1 },
+			{ "year": 2012, "count": 4 },
+			{ "year": 2013, "count": 5 },
+			{ "year": 2014, "count": 7 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 11 },
+			{ "year": 2017, "count": 10 },
+			{ "year": 2018, "count": 6 },
+			{ "year": 2019, "count": 7 },
+			{ "year": 2020, "count": 6 },
+			{ "year": 2021, "count": 7 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 161,
+		"data": [
+			{ "year": 2002, "count": 3 },
+			{ "year": 2003, "count": 6 },
+			{ "year": 2004, "count": 21 },
+			{ "year": 2005, "count": 6 },
+			{ "year": 2009, "count": 22 },
+			{ "year": 2010, "count": 115 },
+			{ "year": 2011, "count": 166 },
+			{ "year": 2012, "count": 76 },
+			{ "year": 2013, "count": 74 },
+			{ "year": 2014, "count": 64 },
+			{ "year": 2015, "count": 48 },
+			{ "year": 2016, "count": 34 },
+			{ "year": 2017, "count": 52 },
+			{ "year": 2018, "count": 33 },
+			{ "year": 2019, "count": 29 },
+			{ "year": 2020, "count": 26 },
+			{ "year": 2021, "count": 15 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{
+		"tax_id": 164,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 3 },
+			{ "year": 2013, "count": 5 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 3 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 9 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 6 },
+			{ "year": 2020, "count": 5 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 165,
+		"data": [
+			{ "year": 2002, "count": 1 },
+			{ "year": 2009, "count": 1 },
+			{ "year": 2010, "count": 2 },
+			{ "year": 2011, "count": 2 },
+			{ "year": 2012, "count": 4 },
+			{ "year": 2013, "count": 6 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2018, "count": 5 }
+		]
+	},
+	{
+		"tax_id": 166,
+		"data": [
+			{ "year": 2000, "count": 36 },
+			{ "year": 2001, "count": 62 },
+			{ "year": 2002, "count": 111 },
+			{ "year": 2003, "count": 122 },
+			{ "year": 2004, "count": 93 },
+			{ "year": 2005, "count": 28 },
+			{ "year": 2006, "count": 18 },
+			{ "year": 2007, "count": 25 },
+			{ "year": 2008, "count": 50 },
+			{ "year": 2009, "count": 128 },
+			{ "year": 2010, "count": 235 },
+			{ "year": 2011, "count": 310 },
+			{ "year": 2012, "count": 222 },
+			{ "year": 2013, "count": 160 },
+			{ "year": 2014, "count": 182 },
+			{ "year": 2015, "count": 183 },
+			{ "year": 2016, "count": 145 },
+			{ "year": 2017, "count": 204 },
+			{ "year": 2018, "count": 117 },
+			{ "year": 2019, "count": 112 },
+			{ "year": 2020, "count": 83 },
+			{ "year": 2021, "count": 100 },
+			{ "year": "No data", "count": 16 }
+		]
+	},
+	{
+		"tax_id": 167,
+		"data": [
+			{ "year": 2014, "count": 3 },
+			{ "year": 2015, "count": 4 },
+			{ "year": 2016, "count": 3 },
+			{ "year": 2017, "count": 17 },
+			{ "year": 2018, "count": 3 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 168,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2018, "count": 2 },
+			{ "year": 2020, "count": 2 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 170,
+		"data": [
+			{ "year": 2000, "count": 155 },
+			{ "year": 2001, "count": 114 },
+			{ "year": 2002, "count": 337 },
+			{ "year": 2003, "count": 372 },
+			{ "year": 2004, "count": 226 },
+			{ "year": 2005, "count": 91 },
+			{ "year": 2006, "count": 77 },
+			{ "year": 2007, "count": 103 },
+			{ "year": 2008, "count": 82 },
+			{ "year": 2009, "count": 1066 },
+			{ "year": 2010, "count": 1388 },
+			{ "year": 2011, "count": 1338 },
+			{ "year": 2012, "count": 968 },
+			{ "year": 2013, "count": 1122 },
+			{ "year": 2014, "count": 930 },
+			{ "year": 2015, "count": 648 },
+			{ "year": 2016, "count": 457 },
+			{ "year": 2017, "count": 999 },
+			{ "year": 2018, "count": 644 },
+			{ "year": 2019, "count": 529 },
+			{ "year": 2020, "count": 539 },
+			{ "year": 2021, "count": 507 },
+			{ "year": "No data", "count": 172 }
+		]
+	},
+	{ "tax_id": 171, "data": [{ "year": 2015, "count": 1 }] },
+	{ "tax_id": 172, "data": [{ "year": 2015, "count": 1 }] },
+	{
+		"tax_id": 174,
+		"data": [
+			{ "year": 2001, "count": 11 },
+			{ "year": 2002, "count": 16 },
+			{ "year": 2003, "count": 32 },
+			{ "year": 2004, "count": 64 },
+			{ "year": 2005, "count": 44 },
+			{ "year": 2006, "count": 7 },
+			{ "year": 2007, "count": 21 },
+			{ "year": 2008, "count": 16 },
+			{ "year": 2009, "count": 35 },
+			{ "year": 2010, "count": 70 },
+			{ "year": 2011, "count": 137 },
+			{ "year": 2012, "count": 147 },
+			{ "year": 2013, "count": 211 },
+			{ "year": 2014, "count": 145 },
+			{ "year": 2015, "count": 117 },
+			{ "year": 2016, "count": 141 },
+			{ "year": 2017, "count": 144 },
+			{ "year": 2018, "count": 134 },
+			{ "year": 2019, "count": 168 },
+			{ "year": 2020, "count": 76 },
+			{ "year": 2021, "count": 104 },
+			{ "year": "No data", "count": 15 }
+		]
+	},
+	{
+		"tax_id": 175,
+		"data": [
+			{ "year": 2001, "count": 8 },
+			{ "year": 2002, "count": 6 },
+			{ "year": 2003, "count": 11 },
+			{ "year": 2004, "count": 14 },
+			{ "year": 2005, "count": 4 },
+			{ "year": 2008, "count": 1 },
+			{ "year": 2009, "count": 6 },
+			{ "year": 2010, "count": 38 },
+			{ "year": 2011, "count": 92 },
+			{ "year": 2012, "count": 80 },
+			{ "year": 2013, "count": 69 },
+			{ "year": 2014, "count": 33 },
+			{ "year": 2015, "count": 53 },
+			{ "year": 2016, "count": 26 },
+			{ "year": 2017, "count": 49 },
+			{ "year": 2018, "count": 25 },
+			{ "year": 2019, "count": 19 },
+			{ "year": 2020, "count": 16 },
+			{ "year": 2021, "count": 17 },
+			{ "year": "No data", "count": 3 }
+		]
+	},
+	{
+		"tax_id": 177,
+		"data": [
+			{ "year": 2012, "count": 1 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2018, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 178,
+		"data": [
+			{ "year": 2013, "count": 1 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2018, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 179,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2017, "count": 2 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 180,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 5 },
+			{ "year": 2012, "count": 3 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2018, "count": 2 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 181,
+		"data": [
+			{ "year": 2010, "count": 2 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 19 },
+			{ "year": 2016, "count": 25 },
+			{ "year": 2017, "count": 32 },
+			{ "year": 2018, "count": 42 },
+			{ "year": 2019, "count": 65 },
+			{ "year": 2020, "count": 50 },
+			{ "year": 2021, "count": 45 }
+		]
+	},
+	{
+		"tax_id": 183,
+		"data": [
+			{ "year": 2000, "count": 9 },
+			{ "year": 2001, "count": 8 },
+			{ "year": 2002, "count": 19 },
+			{ "year": 2003, "count": 29 },
+			{ "year": 2004, "count": 26 },
+			{ "year": 2005, "count": 4 },
+			{ "year": 2006, "count": 7 },
+			{ "year": 2007, "count": 1 },
+			{ "year": 2008, "count": 2 },
+			{ "year": 2009, "count": 27 },
+			{ "year": 2010, "count": 87 },
+			{ "year": 2011, "count": 191 },
+			{ "year": 2012, "count": 165 },
+			{ "year": 2013, "count": 135 },
+			{ "year": 2014, "count": 113 },
+			{ "year": 2015, "count": 65 },
+			{ "year": 2016, "count": 48 },
+			{ "year": 2017, "count": 107 },
+			{ "year": 2018, "count": 60 },
+			{ "year": 2019, "count": 67 },
+			{ "year": 2020, "count": 28 },
+			{ "year": 2021, "count": 30 },
+			{ "year": "No data", "count": 13 }
+		]
+	},
+	{
+		"tax_id": 186,
+		"data": [
+			{ "year": 2012, "count": 1 },
+			{ "year": 2014, "count": 2 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 3 },
+			{ "year": 2018, "count": 2 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 187,
+		"data": [
+			{ "year": 2006, "count": 1 },
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 2 },
+			{ "year": 2013, "count": 2 },
+			{ "year": 2014, "count": 3 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2018, "count": 3 },
+			{ "year": 2019, "count": 2 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 189,
+		"data": [
+			{ "year": 2003, "count": 1 },
+			{ "year": 2004, "count": 2 },
+			{ "year": 2010, "count": 16 },
+			{ "year": 2011, "count": 28 },
+			{ "year": 2012, "count": 22 },
+			{ "year": 2013, "count": 28 },
+			{ "year": 2014, "count": 11 },
+			{ "year": 2015, "count": 9 },
+			{ "year": 2016, "count": 11 },
+			{ "year": 2017, "count": 19 },
+			{ "year": 2018, "count": 18 },
+			{ "year": 2019, "count": 14 },
+			{ "year": 2020, "count": 14 },
+			{ "year": 2021, "count": 12 }
+		]
+	},
+	{
+		"tax_id": 190,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2018, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 191,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2017, "count": 5 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 192,
+		"data": [
+			{ "year": 2010, "count": 3 },
+			{ "year": 2011, "count": 4 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2017, "count": 3 },
+			{ "year": 2018, "count": 3 },
+			{ "year": 2019, "count": 2 },
+			{ "year": 2021, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 193,
+		"data": [
+			{ "year": 2012, "count": 1 },
+			{ "year": 2014, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 194,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2018, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 196,
+		"data": [
+			{ "year": 2002, "count": 2 },
+			{ "year": 2004, "count": 4 },
+			{ "year": 2005, "count": 9 },
+			{ "year": 2009, "count": 30 },
+			{ "year": 2010, "count": 76 },
+			{ "year": 2011, "count": 12 },
+			{ "year": 2012, "count": 10 },
+			{ "year": 2013, "count": 25 },
+			{ "year": 2014, "count": 14 },
+			{ "year": 2015, "count": 10 },
+			{ "year": 2016, "count": 3 },
+			{ "year": 2017, "count": 11 },
+			{ "year": 2018, "count": 6 },
+			{ "year": 2019, "count": 12 },
+			{ "year": 2020, "count": 11 },
+			{ "year": 2021, "count": 21 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{ "tax_id": 198, "data": [{ "year": 2012, "count": 1 }] },
+	{
+		"tax_id": 199,
+		"data": [
+			{ "year": 2009, "count": 2 },
+			{ "year": 2011, "count": 3 },
+			{ "year": 2012, "count": 1 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2018, "count": 6 },
+			{ "year": 2019, "count": 2 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 200,
+		"data": [
+			{ "year": 2008, "count": 5 },
+			{ "year": 2009, "count": 1 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 5 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 2 },
+			{ "year": 2020, "count": 3 },
+			{ "year": 2021, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 201,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2020, "count": 3 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 202,
+		"data": [
+			{ "year": 2010, "count": 2 },
+			{ "year": 2011, "count": 9 },
+			{ "year": 2012, "count": 1 },
+			{ "year": 2013, "count": 2 },
+			{ "year": 2014, "count": 3 },
+			{ "year": 2015, "count": 5 },
+			{ "year": 2016, "count": 5 },
+			{ "year": 2017, "count": 2 },
+			{ "year": 2018, "count": 6 },
+			{ "year": 2019, "count": 3 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 203,
+		"data": [
+			{ "year": 2011, "count": 2 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 205,
+		"data": [
+			{ "year": 2013, "count": 10 },
+			{ "year": 2014, "count": 3 },
+			{ "year": 2015, "count": 31 },
+			{ "year": 2016, "count": 16 },
+			{ "year": 2017, "count": 21 },
+			{ "year": 2018, "count": 25 },
+			{ "year": 2019, "count": 14 },
+			{ "year": 2020, "count": 82 },
+			{ "year": 2021, "count": 14 }
+		]
+	},
+	{
+		"tax_id": 208,
+		"data": [
+			{ "year": 1999, "count": 2 },
+			{ "year": 2000, "count": 214 },
+			{ "year": 2001, "count": 447 },
+			{ "year": 2002, "count": 532 },
+			{ "year": 2003, "count": 358 },
+			{ "year": 2004, "count": 189 },
+			{ "year": 2005, "count": 143 },
+			{ "year": 2006, "count": 64 },
+			{ "year": 2007, "count": 108 },
+			{ "year": 2008, "count": 82 },
+			{ "year": 2009, "count": 182 },
+			{ "year": 2010, "count": 467 },
+			{ "year": 2011, "count": 514 },
+			{ "year": 2012, "count": 523 },
+			{ "year": 2013, "count": 474 },
+			{ "year": 2014, "count": 440 },
+			{ "year": 2015, "count": 379 },
+			{ "year": 2016, "count": 238 },
+			{ "year": 2017, "count": 338 },
+			{ "year": 2018, "count": 210 },
+			{ "year": 2019, "count": 265 },
+			{ "year": 2020, "count": 220 },
+			{ "year": 2021, "count": 205 },
+			{ "year": "No data", "count": 54 }
+		]
+	},
+	{
+		"tax_id": 210,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 211,
+		"data": [
+			{ "year": 2010, "count": 6 },
+			{ "year": 2011, "count": 19 },
+			{ "year": 2012, "count": 8 },
+			{ "year": 2013, "count": 8 },
+			{ "year": 2014, "count": 8 },
+			{ "year": 2015, "count": 3 },
+			{ "year": 2016, "count": 8 },
+			{ "year": 2017, "count": 6 },
+			{ "year": 2018, "count": 10 },
+			{ "year": 2019, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 212,
+		"data": [
+			{ "year": 2004, "count": 1 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2012, "count": 1 },
+			{ "year": 2013, "count": 2 },
+			{ "year": 2014, "count": 3 },
+			{ "year": 2015, "count": 10 },
+			{ "year": 2016, "count": 5 },
+			{ "year": 2017, "count": 5 },
+			{ "year": 2018, "count": 4 },
+			{ "year": 2019, "count": 3 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 214,
+		"data": [
+			{ "year": 2009, "count": 1 },
+			{ "year": 2012, "count": 2 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 3 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 5 }
+		]
+	},
+	{
+		"tax_id": 215,
+		"data": [
+			{ "year": 2000, "count": 9 },
+			{ "year": 2001, "count": 7 },
+			{ "year": 2002, "count": 13 },
+			{ "year": 2003, "count": 31 },
+			{ "year": 2004, "count": 52 },
+			{ "year": 2005, "count": 5 },
+			{ "year": 2009, "count": 2 },
+			{ "year": 2010, "count": 22 },
+			{ "year": 2011, "count": 51 },
+			{ "year": 2012, "count": 54 },
+			{ "year": 2013, "count": 83 },
+			{ "year": 2014, "count": 75 },
+			{ "year": 2015, "count": 55 },
+			{ "year": 2016, "count": 51 },
+			{ "year": 2017, "count": 82 },
+			{ "year": 2018, "count": 95 },
+			{ "year": 2019, "count": 58 },
+			{ "year": 2020, "count": 40 },
+			{ "year": 2021, "count": 25 }
+		]
+	},
+	{ "tax_id": 216, "data": [{ "year": 2010, "count": 1 }] },
+	{
+		"tax_id": 217,
+		"data": [
+			{ "year": 2000, "count": 1 },
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 5 },
+			{ "year": 2003, "count": 2 },
+			{ "year": 2004, "count": 2 },
+			{ "year": 2006, "count": 3 },
+			{ "year": 2008, "count": 2 },
+			{ "year": 2009, "count": 3 },
+			{ "year": 2010, "count": 8 },
+			{ "year": 2011, "count": 3 },
+			{ "year": 2012, "count": 10 },
+			{ "year": 2013, "count": 5 },
+			{ "year": 2014, "count": 6 },
+			{ "year": 2015, "count": 4 },
+			{ "year": 2016, "count": 3 },
+			{ "year": 2017, "count": 6 },
+			{ "year": 2018, "count": 6 },
+			{ "year": 2019, "count": 4 },
+			{ "year": 2020, "count": 4 },
+			{ "year": 2021, "count": 12 }
+		]
+	},
+	{
+		"tax_id": 218,
+		"data": [
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 2 },
+			{ "year": 2003, "count": 1 },
+			{ "year": 2009, "count": 1 },
+			{ "year": 2010, "count": 26 },
+			{ "year": 2011, "count": 77 },
+			{ "year": 2012, "count": 39 },
+			{ "year": 2013, "count": 43 },
+			{ "year": 2014, "count": 40 },
+			{ "year": 2015, "count": 41 },
+			{ "year": 2016, "count": 26 },
+			{ "year": 2017, "count": 35 },
+			{ "year": 2018, "count": 32 },
+			{ "year": 2019, "count": 33 },
+			{ "year": 2020, "count": 12 },
+			{ "year": 2021, "count": 27 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 219,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 4 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 2 },
+			{ "year": 2018, "count": 2 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 220,
+		"data": [
+			{ "year": 2000, "count": 2 },
+			{ "year": 2001, "count": 5 },
+			{ "year": 2002, "count": 18 },
+			{ "year": 2003, "count": 18 },
+			{ "year": 2004, "count": 16 },
+			{ "year": 2005, "count": 7 },
+			{ "year": 2006, "count": 7 },
+			{ "year": 2007, "count": 9 },
+			{ "year": 2008, "count": 11 },
+			{ "year": 2009, "count": 71 },
+			{ "year": 2010, "count": 90 },
+			{ "year": 2011, "count": 137 },
+			{ "year": 2012, "count": 105 },
+			{ "year": 2013, "count": 83 },
+			{ "year": 2014, "count": 75 },
+			{ "year": 2015, "count": 109 },
+			{ "year": 2016, "count": 84 },
+			{ "year": 2017, "count": 99 },
+			{ "year": 2018, "count": 61 },
+			{ "year": 2019, "count": 59 },
+			{ "year": 2020, "count": 54 },
+			{ "year": 2021, "count": 63 },
+			{ "year": "No data", "count": 9 }
+		]
+	},
+	{
+		"tax_id": 222,
+		"data": [
+			{ "year": 2001, "count": 1 },
+			{ "year": 2003, "count": 3 },
+			{ "year": 2004, "count": 2 },
+			{ "year": 2005, "count": 3 },
+			{ "year": 2010, "count": 13 },
+			{ "year": 2011, "count": 45 },
+			{ "year": 2012, "count": 55 },
+			{ "year": 2013, "count": 49 },
+			{ "year": 2014, "count": 31 },
+			{ "year": 2015, "count": 27 },
+			{ "year": 2016, "count": 18 },
+			{ "year": 2017, "count": 29 },
+			{ "year": 2018, "count": 20 },
+			{ "year": 2019, "count": 4 },
+			{ "year": 2020, "count": 7 },
+			{ "year": 2021, "count": 12 }
+		]
+	},
+	{
+		"tax_id": 224,
+		"data": [
+			{ "year": 2011, "count": 6 },
+			{ "year": 2012, "count": 1 },
+			{ "year": 2013, "count": 3 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 2 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 2 },
+			{ "year": 2021, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 225,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 3 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 228,
+		"data": [
+			{ "year": 2004, "count": 3 },
+			{ "year": 2010, "count": 6 },
+			{ "year": 2011, "count": 13 },
+			{ "year": 2012, "count": 10 },
+			{ "year": 2013, "count": 15 },
+			{ "year": 2014, "count": 10 },
+			{ "year": 2015, "count": 10 },
+			{ "year": 2016, "count": 6 },
+			{ "year": 2017, "count": 5 },
+			{ "year": 2018, "count": 13 },
+			{ "year": 2019, "count": 2 },
+			{ "year": 2020, "count": 2 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 229,
+		"data": [
+			{ "year": 2000, "count": 3 },
+			{ "year": 2002, "count": 4 },
+			{ "year": 2003, "count": 3 },
+			{ "year": 2004, "count": 50 },
+			{ "year": 2005, "count": 2 },
+			{ "year": 2006, "count": 6 },
+			{ "year": 2007, "count": 2 },
+			{ "year": 2008, "count": 2 },
+			{ "year": 2009, "count": 40 },
+			{ "year": 2010, "count": 149 },
+			{ "year": 2011, "count": 269 },
+			{ "year": 2012, "count": 192 },
+			{ "year": 2013, "count": 198 },
+			{ "year": 2014, "count": 170 },
+			{ "year": 2015, "count": 104 },
+			{ "year": 2016, "count": 94 },
+			{ "year": 2017, "count": 145 },
+			{ "year": 2018, "count": 95 },
+			{ "year": 2019, "count": 56 },
+			{ "year": 2020, "count": 30 },
+			{ "year": 2021, "count": 53 },
+			{ "year": "No data", "count": 6 }
+		]
+	},
+	{
+		"tax_id": 230,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2015, "count": 5 },
+			{ "year": 2017, "count": 4 },
+			{ "year": 2018, "count": 4 },
+			{ "year": 2019, "count": 3 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 231,
+		"data": [
+			{ "year": 2010, "count": 2 },
+			{ "year": 2011, "count": 2 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 234,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2017, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 235,
+		"data": [
+			{ "year": 2003, "count": 1110 },
+			{ "year": 2004, "count": 1468 },
+			{ "year": 2005, "count": 333 },
+			{ "year": 2006, "count": 142 },
+			{ "year": 2007, "count": 169 },
+			{ "year": 2008, "count": 189 },
+			{ "year": 2009, "count": 119 },
+			{ "year": 2010, "count": 233 },
+			{ "year": 2011, "count": 372 },
+			{ "year": 2012, "count": 1929 },
+			{ "year": 2013, "count": 6300 },
+			{ "year": 2014, "count": 3983 },
+			{ "year": 2015, "count": 2821 },
+			{ "year": 2016, "count": 1825 },
+			{ "year": 2017, "count": 2955 },
+			{ "year": 2018, "count": 2307 },
+			{ "year": 2019, "count": 2052 },
+			{ "year": 2020, "count": 1413 },
+			{ "year": 2021, "count": 1440 },
+			{ "year": "No data", "count": 67 }
+		]
+	},
+	{
+		"tax_id": 236,
+		"data": [
+			{ "year": 2002, "count": 1 },
+			{ "year": 2017, "count": 8 },
+			{ "year": 2018, "count": 14 },
+			{ "year": 2019, "count": 7 },
+			{ "year": 2020, "count": 3 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{ "tax_id": 237, "data": [{ "year": 2015, "count": 1 }] },
+	{
+		"tax_id": 238,
+		"data": [
+			{ "year": 2004, "count": 1 },
+			{ "year": 2008, "count": 3 },
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 8 },
+			{ "year": 2012, "count": 4 },
+			{ "year": 2013, "count": 3 },
+			{ "year": 2014, "count": 24 },
+			{ "year": 2015, "count": 23 },
+			{ "year": 2016, "count": 3 },
+			{ "year": 2017, "count": 6 },
+			{ "year": 2018, "count": 10 },
+			{ "year": 2019, "count": 23 },
+			{ "year": 2020, "count": 15 },
+			{ "year": 2021, "count": 16 }
+		]
+	},
+	{
+		"tax_id": 239,
+		"data": [
+			{ "year": 2012, "count": 4 },
+			{ "year": 2013, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 240,
+		"data": [
+			{ "year": 2005, "count": 1 },
+			{ "year": 2012, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 241,
+		"data": [
+			{ "year": 2007, "count": 3 },
+			{ "year": 2014, "count": 3 },
+			{ "year": 2017, "count": 3 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 242,
+		"data": [
+			{ "year": 2006, "count": 2 },
+			{ "year": 2009, "count": 1 },
+			{ "year": 2010, "count": 4 },
+			{ "year": 2011, "count": 8 },
+			{ "year": 2012, "count": 6 },
+			{ "year": 2013, "count": 20 },
+			{ "year": 2014, "count": 5 },
+			{ "year": 2015, "count": 6 },
+			{ "year": 2016, "count": 5 },
+			{ "year": 2017, "count": 6 },
+			{ "year": 2018, "count": 9 },
+			{ "year": 2019, "count": 5 }
+		]
+	},
+	{
+		"tax_id": 243,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2014, "count": 2 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 3 },
+			{ "year": 2018, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 244,
+		"data": [
+			{ "year": 2006, "count": 1 },
+			{ "year": 2009, "count": 4 },
+			{ "year": 2014, "count": 2 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2016, "count": 6 },
+			{ "year": 2017, "count": 6 },
+			{ "year": 2018, "count": 28 },
+			{ "year": 2019, "count": 9 },
+			{ "year": 2020, "count": 10 },
+			{ "year": 2021, "count": 15 }
+		]
+	},
+	{
+		"tax_id": 248,
+		"data": [
+			{ "year": 2002, "count": 1 },
+			{ "year": 2012, "count": 8 },
+			{ "year": 2013, "count": 3 },
+			{ "year": 2015, "count": 3 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 249,
+		"data": [
+			{ "year": 2000, "count": 4 },
+			{ "year": 2001, "count": 3 },
+			{ "year": 2002, "count": 2 },
+			{ "year": 2003, "count": 5 },
+			{ "year": 2004, "count": 2 },
+			{ "year": 2005, "count": 2 },
+			{ "year": 2006, "count": 2 },
+			{ "year": 2007, "count": 4 },
+			{ "year": 2008, "count": 5 },
+			{ "year": 2009, "count": 67 },
+			{ "year": 2010, "count": 112 },
+			{ "year": 2011, "count": 134 },
+			{ "year": 2012, "count": 82 },
+			{ "year": 2013, "count": 88 },
+			{ "year": 2014, "count": 118 },
+			{ "year": 2015, "count": 102 },
+			{ "year": 2016, "count": 63 },
+			{ "year": 2017, "count": 95 },
+			{ "year": 2018, "count": 71 },
+			{ "year": 2019, "count": 70 },
+			{ "year": 2020, "count": 27 },
+			{ "year": 2021, "count": 51 },
+			{ "year": "No data", "count": 5 }
+		]
+	},
+	{
+		"tax_id": 251,
+		"data": [
+			{ "year": 2010, "count": 2 },
+			{ "year": 2011, "count": 1 },
+			{ "year": 2012, "count": 5 },
+			{ "year": 2013, "count": 4 },
+			{ "year": 2014, "count": 4 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2017, "count": 3 },
+			{ "year": 2019, "count": 2 },
+			{ "year": 2020, "count": 1 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 252,
+		"data": [
+			{ "year": 2010, "count": 1 },
+			{ "year": 2013, "count": 1 },
+			{ "year": 2017, "count": 2 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2019, "count": 4 },
+			{ "year": 2020, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 253,
+		"data": [
+			{ "year": 2011, "count": 1 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 256,
+		"data": [
+			{ "year": 2010, "count": 2 },
+			{ "year": 2011, "count": 13 },
+			{ "year": 2012, "count": 12 },
+			{ "year": 2013, "count": 5 },
+			{ "year": 2014, "count": 4 },
+			{ "year": 2015, "count": 13 },
+			{ "year": 2016, "count": 2 },
+			{ "year": 2017, "count": 7 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2020, "count": 2 },
+			{ "year": 2021, "count": 2 }
+		]
+	},
+	{ "tax_id": 257, "data": [{ "year": 2010, "count": 3 }] },
+	{
+		"tax_id": 260,
+		"data": [
+			{ "year": 2011, "count": 3 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2017, "count": 5 },
+			{ "year": 2018, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 262,
+		"data": [
+			{ "year": 2000, "count": 4 },
+			{ "year": 2001, "count": 35 },
+			{ "year": 2002, "count": 75 },
+			{ "year": 2003, "count": 38 },
+			{ "year": 2004, "count": 22 },
+			{ "year": 2005, "count": 13 },
+			{ "year": 2006, "count": 17 },
+			{ "year": 2007, "count": 18 },
+			{ "year": 2008, "count": 42 },
+			{ "year": 2009, "count": 17 },
+			{ "year": 2010, "count": 85 },
+			{ "year": 2011, "count": 109 },
+			{ "year": 2012, "count": 120 },
+			{ "year": 2013, "count": 144 },
+			{ "year": 2014, "count": 147 },
+			{ "year": 2015, "count": 121 },
+			{ "year": 2016, "count": 100 },
+			{ "year": 2017, "count": 113 },
+			{ "year": 2018, "count": 107 },
+			{ "year": 2019, "count": 87 },
+			{ "year": 2020, "count": 41 },
+			{ "year": 2021, "count": 55 },
+			{ "year": "No data", "count": 4 }
+		]
+	},
+	{
+		"tax_id": 263,
+		"data": [
+			{ "year": 2000, "count": 56 },
+			{ "year": 2001, "count": 44 },
+			{ "year": 2002, "count": 58 },
+			{ "year": 2003, "count": 79 },
+			{ "year": 2004, "count": 69 },
+			{ "year": 2005, "count": 41 },
+			{ "year": 2006, "count": 49 },
+			{ "year": 2007, "count": 43 },
+			{ "year": 2008, "count": 56 },
+			{ "year": 2009, "count": 130 },
+			{ "year": 2010, "count": 222 },
+			{ "year": 2011, "count": 307 },
+			{ "year": 2012, "count": 269 },
+			{ "year": 2013, "count": 218 },
+			{ "year": 2014, "count": 219 },
+			{ "year": 2015, "count": 195 },
+			{ "year": 2016, "count": 201 },
+			{ "year": 2017, "count": 301 },
+			{ "year": 2018, "count": 137 },
+			{ "year": 2019, "count": 115 },
+			{ "year": 2020, "count": 116 },
+			{ "year": 2021, "count": 171 },
+			{ "year": "No data", "count": 11 }
+		]
+	},
+	{ "tax_id": 264, "data": [{ "year": 2013, "count": 1 }] },
+	{
+		"tax_id": 265,
+		"data": [
+			{ "year": 2000, "count": 3 },
+			{ "year": 2001, "count": 36 },
+			{ "year": 2002, "count": 44 },
+			{ "year": 2003, "count": 27 },
+			{ "year": 2004, "count": 32 },
+			{ "year": 2005, "count": 24 },
+			{ "year": 2006, "count": 16 },
+			{ "year": 2007, "count": 49 },
+			{ "year": 2008, "count": 55 },
+			{ "year": 2009, "count": 29 },
+			{ "year": 2010, "count": 71 },
+			{ "year": 2011, "count": 187 },
+			{ "year": 2012, "count": 107 },
+			{ "year": 2013, "count": 36 },
+			{ "year": 2014, "count": 30 },
+			{ "year": 2015, "count": 27 },
+			{ "year": 2016, "count": 10 },
+			{ "year": 2017, "count": 1 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 267,
+		"data": [
+			{ "year": 2001, "count": 1 },
+			{ "year": 2003, "count": 4 },
+			{ "year": 2004, "count": 4 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2010, "count": 13 },
+			{ "year": 2011, "count": 37 },
+			{ "year": 2012, "count": 35 },
+			{ "year": 2013, "count": 27 },
+			{ "year": 2014, "count": 33 },
+			{ "year": 2015, "count": 19 },
+			{ "year": 2016, "count": 26 },
+			{ "year": 2017, "count": 30 },
+			{ "year": 2018, "count": 17 },
+			{ "year": 2019, "count": 7 },
+			{ "year": 2020, "count": 20 },
+			{ "year": 2021, "count": 18 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 269,
+		"data": [
+			{ "year": 2003, "count": 1 },
+			{ "year": 2005, "count": 2 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2007, "count": 2 },
+			{ "year": 2009, "count": 4 },
+			{ "year": 2010, "count": 7 },
+			{ "year": 2011, "count": 1 },
+			{ "year": 2012, "count": 1 },
+			{ "year": 2013, "count": 7 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 9 },
+			{ "year": 2018, "count": 2 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 4 },
+			{ "year": 2021, "count": 5 }
+		]
+	},
+	{
+		"tax_id": 270,
+		"data": [
+			{ "year": 2000, "count": 119 },
+			{ "year": 2001, "count": 333 },
+			{ "year": 2002, "count": 290 },
+			{ "year": 2003, "count": 260 },
+			{ "year": 2004, "count": 177 },
+			{ "year": 2005, "count": 46 },
+			{ "year": 2006, "count": 60 },
+			{ "year": 2007, "count": 152 },
+			{ "year": 2008, "count": 148 },
+			{ "year": 2009, "count": 284 },
+			{ "year": 2010, "count": 353 },
+			{ "year": 2011, "count": 415 },
+			{ "year": 2012, "count": 298 },
+			{ "year": 2013, "count": 272 },
+			{ "year": 2014, "count": 322 },
+			{ "year": 2015, "count": 237 },
+			{ "year": 2016, "count": 270 },
+			{ "year": 2017, "count": 379 },
+			{ "year": 2018, "count": 293 },
+			{ "year": 2019, "count": 237 },
+			{ "year": 2020, "count": 300 },
+			{ "year": 2021, "count": 235 },
+			{ "year": "No data", "count": 18 }
+		]
+	},
+	{
+		"tax_id": 271,
+		"data": [
+			{ "year": 2015, "count": 3 },
+			{ "year": 2017, "count": 3 },
+			{ "year": 2019, "count": 6 },
+			{ "year": 2021, "count": 4 }
+		]
+	},
+	{ "tax_id": 272, "data": [{ "year": 2012, "count": 1 }] },
+	{
+		"tax_id": 273,
+		"data": [
+			{ "year": 2000, "count": 66 },
+			{ "year": 2001, "count": 72 },
+			{ "year": 2002, "count": 171 },
+			{ "year": 2003, "count": 166 },
+			{ "year": 2004, "count": 114 },
+			{ "year": 2005, "count": 32 },
+			{ "year": 2006, "count": 36 },
+			{ "year": 2007, "count": 47 },
+			{ "year": 2008, "count": 37 },
+			{ "year": 2009, "count": 229 },
+			{ "year": 2010, "count": 349 },
+			{ "year": 2011, "count": 578 },
+			{ "year": 2012, "count": 414 },
+			{ "year": 2013, "count": 390 },
+			{ "year": 2014, "count": 326 },
+			{ "year": 2015, "count": 297 },
+			{ "year": 2016, "count": 233 },
+			{ "year": 2017, "count": 278 },
+			{ "year": 2018, "count": 181 },
+			{ "year": 2019, "count": 189 },
+			{ "year": 2020, "count": 116 },
+			{ "year": 2021, "count": 130 },
+			{ "year": "No data", "count": 19 }
+		]
+	},
+	{
+		"tax_id": 274,
+		"data": [
+			{ "year": 2002, "count": 6 },
+			{ "year": 2003, "count": 11 },
+			{ "year": 2004, "count": 12 },
+			{ "year": 2005, "count": 1 },
+			{ "year": 2006, "count": 1 },
+			{ "year": 2009, "count": 6 },
+			{ "year": 2010, "count": 56 },
+			{ "year": 2011, "count": 88 },
+			{ "year": 2012, "count": 77 },
+			{ "year": 2013, "count": 42 },
+			{ "year": 2014, "count": 66 },
+			{ "year": 2015, "count": 63 },
+			{ "year": 2016, "count": 47 },
+			{ "year": 2017, "count": 76 },
+			{ "year": 2018, "count": 38 },
+			{ "year": 2019, "count": 30 },
+			{ "year": 2020, "count": 14 },
+			{ "year": 2021, "count": 27 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{ "tax_id": 276, "data": [{ "year": 2011, "count": 1 }] },
+	{
+		"tax_id": 277,
+		"data": [
+			{ "year": 2011, "count": 3 },
+			{ "year": 2012, "count": 2 },
+			{ "year": 2014, "count": 1 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 1 },
+			{ "year": 2019, "count": 1 },
+			{ "year": 2020, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 278,
+		"data": [
+			{ "year": 1999, "count": 2 },
+			{ "year": 2000, "count": 110 },
+			{ "year": 2001, "count": 412 },
+			{ "year": 2002, "count": 478 },
+			{ "year": 2003, "count": 633 },
+			{ "year": 2004, "count": 449 },
+			{ "year": 2005, "count": 275 },
+			{ "year": 2006, "count": 101 },
+			{ "year": 2007, "count": 258 },
+			{ "year": 2008, "count": 316 },
+			{ "year": 2009, "count": 594 },
+			{ "year": 2010, "count": 1275 },
+			{ "year": 2011, "count": 1533 },
+			{ "year": 2012, "count": 1228 },
+			{ "year": 2013, "count": 1754 },
+			{ "year": 2014, "count": 1442 },
+			{ "year": 2015, "count": 1087 },
+			{ "year": 2016, "count": 827 },
+			{ "year": 2017, "count": 1240 },
+			{ "year": 2018, "count": 945 },
+			{ "year": 2019, "count": 949 },
+			{ "year": 2020, "count": 606 },
+			{ "year": 2021, "count": 614 },
+			{ "year": "No data", "count": 72 }
+		]
+	},
+	{
+		"tax_id": 279,
+		"data": [
+			{ "year": 2009, "count": 1 },
+			{ "year": 2010, "count": 1 },
+			{ "year": 2011, "count": 2 },
+			{ "year": 2013, "count": 2 },
+			{ "year": 2015, "count": 2 },
+			{ "year": 2016, "count": 1 },
+			{ "year": 2017, "count": 3 },
+			{ "year": 2018, "count": 1 },
+			{ "year": 2021, "count": 1 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{ "tax_id": 280, "data": [{ "year": 2016, "count": 1 }] },
+	{
+		"tax_id": 281,
+		"data": [
+			{ "year": 2005, "count": 1 },
+			{ "year": 2009, "count": 3 },
+			{ "year": 2010, "count": 10 },
+			{ "year": 2011, "count": 8 },
+			{ "year": 2012, "count": 6 },
+			{ "year": 2013, "count": 4 },
+			{ "year": 2014, "count": 4 },
+			{ "year": 2015, "count": 4 },
+			{ "year": 2016, "count": 9 },
+			{ "year": 2017, "count": 8 },
+			{ "year": 2018, "count": 8 },
+			{ "year": 2020, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 282,
+		"data": [
+			{ "year": 2001, "count": 3 },
+			{ "year": 2002, "count": 6 },
+			{ "year": 2004, "count": 1 },
+			{ "year": 2009, "count": 2 },
+			{ "year": 2010, "count": 46 },
+			{ "year": 2011, "count": 69 },
+			{ "year": 2012, "count": 52 },
+			{ "year": 2013, "count": 46 },
+			{ "year": 2014, "count": 41 },
+			{ "year": 2015, "count": 43 },
+			{ "year": 2016, "count": 32 },
+			{ "year": 2017, "count": 40 },
+			{ "year": 2018, "count": 31 },
+			{ "year": 2019, "count": 25 },
+			{ "year": 2020, "count": 39 },
+			{ "year": 2021, "count": 6 },
+			{ "year": "No data", "count": 3 }
+		]
+	},
+	{
+		"tax_id": 285,
+		"data": [
+			{ "year": 2003, "count": 48 },
+			{ "year": 2004, "count": 59 },
+			{ "year": 2005, "count": 21 },
+			{ "year": 2009, "count": 31 },
+			{ "year": 2010, "count": 106 },
+			{ "year": 2011, "count": 215 },
+			{ "year": 2012, "count": 120 },
+			{ "year": 2013, "count": 81 },
+			{ "year": 2014, "count": 113 },
+			{ "year": 2015, "count": 67 },
+			{ "year": 2016, "count": 37 },
+			{ "year": 2017, "count": 53 },
+			{ "year": 2018, "count": 55 },
+			{ "year": 2019, "count": 52 },
+			{ "year": 2020, "count": 22 },
+			{ "year": 2021, "count": 21 },
+			{ "year": "No data", "count": 2 }
+		]
+	},
+	{
+		"tax_id": 286,
+		"data": [
+			{ "year": 2000, "count": 7 },
+			{ "year": 2001, "count": 12 },
+			{ "year": 2002, "count": 26 },
+			{ "year": 2003, "count": 24 },
+			{ "year": 2004, "count": 17 },
+			{ "year": 2005, "count": 21 },
+			{ "year": 2006, "count": 4 },
+			{ "year": 2007, "count": 7 },
+			{ "year": 2008, "count": 17 },
+			{ "year": 2009, "count": 34 },
+			{ "year": 2010, "count": 60 },
+			{ "year": 2011, "count": 107 },
+			{ "year": 2012, "count": 109 },
+			{ "year": 2013, "count": 87 },
+			{ "year": 2014, "count": 134 },
+			{ "year": 2015, "count": 128 },
+			{ "year": 2016, "count": 108 },
+			{ "year": 2017, "count": 77 },
+			{ "year": 2018, "count": 56 },
+			{ "year": 2019, "count": 55 },
+			{ "year": 2020, "count": 34 },
+			{ "year": 2021, "count": 83 },
+			{ "year": "No data", "count": 13 }
+		]
+	},
+	{
+		"tax_id": 289,
+		"data": [
+			{ "year": 2002, "count": 1 },
+			{ "year": 2004, "count": 3 },
+			{ "year": 2010, "count": 1 },
+			{ "year": 2015, "count": 1 },
+			{ "year": 2016, "count": 3 },
+			{ "year": 2017, "count": 4 },
+			{ "year": 2018, "count": 7 },
+			{ "year": 2019, "count": 3 },
+			{ "year": 2020, "count": 3 },
+			{ "year": 2021, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 290,
+		"data": [
+			{ "year": 2016, "count": 1 },
+			{ "year": 2021, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 291,
+		"data": [
+			{ "year": 2000, "count": 2 },
+			{ "year": 2001, "count": 2 },
+			{ "year": 2002, "count": 2 },
+			{ "year": 2003, "count": 11 },
+			{ "year": 2004, "count": 21 },
+			{ "year": 2005, "count": 4 },
+			{ "year": 2006, "count": 2 },
+			{ "year": 2009, "count": 11 },
+			{ "year": 2010, "count": 30 },
+			{ "year": 2011, "count": 87 },
+			{ "year": 2012, "count": 70 },
+			{ "year": 2013, "count": 75 },
+			{ "year": 2014, "count": 72 },
+			{ "year": 2015, "count": 74 },
+			{ "year": 2016, "count": 56 },
+			{ "year": 2017, "count": 83 },
+			{ "year": 2018, "count": 61 },
+			{ "year": 2019, "count": 31 },
+			{ "year": 2020, "count": 29 },
+			{ "year": 2021, "count": 40 },
+			{ "year": "No data", "count": 1 }
+		]
+	},
+	{
+		"tax_id": 293,
+		"data": [
+			{ "year": 2010, "count": 15 },
+			{ "year": 2011, "count": 22 },
+			{ "year": 2012, "count": 35 },
+			{ "year": 2013, "count": 17 },
+			{ "year": 2014, "count": 21 },
+			{ "year": 2015, "count": 27 },
+			{ "year": 2016, "count": 10 },
+			{ "year": 2017, "count": 19 },
+			{ "year": 2018, "count": 32 },
+			{ "year": 2019, "count": 11 },
+			{ "year": 2020, "count": 10 },
+			{ "year": 2021, "count": 4 }
+		]
+	},
+	{ "tax_id": 294, "data": [{ "year": 2006, "count": 1 }] },
+	{
+		"tax_id": 296,
+		"data": [
+			{ "year": 2000, "count": 98 },
+			{ "year": 2001, "count": 61 },
+			{ "year": 2002, "count": 138 },
+			{ "year": 2003, "count": 128 },
+			{ "year": 2004, "count": 121 },
+			{ "year": 2005, "count": 43 },
+			{ "year": 2006, "count": 46 },
+			{ "year": 2007, "count": 27 },
+			{ "year": 2008, "count": 10 },
+			{ "year": 2009, "count": 31 },
+			{ "year": 2010, "count": 81 },
+			{ "year": 2011, "count": 272 },
+			{ "year": 2012, "count": 220 },
+			{ "year": 2013, "count": 164 },
+			{ "year": 2014, "count": 174 },
+			{ "year": 2015, "count": 117 },
+			{ "year": 2016, "count": 98 },
+			{ "year": 2017, "count": 107 },
+			{ "year": 2018, "count": 76 },
+			{ "year": 2019, "count": 86 },
+			{ "year": 2020, "count": 38 },
+			{ "year": 2021, "count": 59 },
+			{ "year": "No data", "count": 10 }
+		]
+	},
+	{
+		"tax_id": 297,
+		"data": [
+			{ "year": 2002, "count": 3 },
+			{ "year": 2003, "count": 823 },
+			{ "year": 2004, "count": 1246 },
+			{ "year": 2005, "count": 315 },
+			{ "year": 2006, "count": 176 },
+			{ "year": 2007, "count": 126 },
+			{ "year": 2008, "count": 167 },
+			{ "year": 2009, "count": 125 },
+			{ "year": 2010, "count": 322 },
+			{ "year": 2011, "count": 424 },
+			{ "year": 2012, "count": 905 },
+			{ "year": 2013, "count": 2828 },
+			{ "year": 2014, "count": 1740 },
+			{ "year": 2015, "count": 1324 },
+			{ "year": 2016, "count": 1329 },
+			{ "year": 2017, "count": 2060 },
+			{ "year": 2018, "count": 1668 },
+			{ "year": 2019, "count": 1582 },
+			{ "year": 2020, "count": 1594 },
+			{ "year": 2021, "count": 1482 },
+			{ "year": "No data", "count": 56 }
+		]
+	},
+	{
+		"tax_id": "No data",
+		"data": [
+			{ "year": 2013, "count": 1 },
+			{ "year": 2018, "count": 1 }
+		]
+	}
+]

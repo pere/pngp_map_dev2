@@ -1,0 +1,87 @@
+sp_tax_counts_dbase.js a simple json file with the following structure:
+
+[
+  {
+    tax_id: 235,
+    obs_count: 31227,
+    tax_level: "species",
+    name_it: "Camoscio",
+    name_eng: "Alpine chamois",
+    species_n: "Rupicapra rupicapra",
+    genus_n: "Rupicapra",
+    family_n: "Bovidae",
+    order_n: "Cetartiodactyla",
+    class_n: "Mammalia",
+  },
+]
+extracted from database with query
+SELECT
+    o.tax_id,
+    COUNT(o.gid) AS obs_count,j.tax_level,
+	j.species_n,j.genus_n,j.family_n,
+    j.order_n,j.class_n
+FROM paradiso.pngp_obs o
+JOIN paradiso.tax_sp j
+    ON o.tax_id = j.id
+GROUP BY
+    o.tax_id,
+	j.tax_level,
+	j.species_n,j.genus_n,j.family_n,
+    j.order_n,j.class_n
+
+ORDER BY
+    obs_count DESC;
+
+tax_data_joined.js is a simple json file with the following structure:
+created with the following script: join_tax_data.js
+used to join the data from sp_tax_counts_dbase.js with the data from tax_data_joined.js
+to get the obs_count for each tax_id
+and the tax_level, species_n, genus_n, family_n, order_n, class_n
+and the name_it, name_eng
+and the species_n, genus_n, family_n, order_n, class_n
+and the name_it, name_eng
+
+USED AS STORE OF DATA FOR THE APP
+
+  {
+    "id": 2,
+    "species_n": "Parus ater",
+    "preferred_common_name": "Coal Tit",
+    "iconic_taxon_name": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Coal_tit",
+    "matched_term": "Parus ater",
+    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436734934/medium.jpg",
+    "pngp_data": {
+      "tax_id": 2,
+      "obs_count": 1190,
+      "tax_level": "species",
+      "name_it": "Cincia mora",
+      "name_eng": "Coal tit",
+      "species_n": "Parus ater",
+      "genus_n": "Parus",
+      "family_n": "Paridae",
+      "order_n": "Passeriformes",
+      "class_n": "Aves"
+    }
+  },
+
+
+
+
+sp_tax_counts is used as a store (store_pngp.js) of data for the app
+not sure why
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

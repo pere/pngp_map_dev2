@@ -1,0 +1,103 @@
+---
+description: Complete directory structure and important files/folders overview for the PNGP project
+globs:
+  - src/**/*
+  - package.json
+  - *.config.js
+  - static/**/*
+  - my_docs/**/*
+alwaysApply: false
+---
+# PNGP Project Directory Structure & Important Files
+
+Complete overview of the PNGP project's directory structure, listing all source files and folders with their purposes and importance.
+
+## Root Level Files
+- `package.json` - Node.js project configuration, dependencies, and scripts
+- `package-lock.json` - Exact dependency versions for reproducible builds
+- `jsconfig.json` - JavaScript/TypeScript configuration for tooling
+- `components.json` - Component library configuration
+- `svelte.config.js` - Svelte framework configuration
+- `vite.config.js` - Vite build tool configuration
+- `README.md` - Project documentation and setup instructions
+
+## Static Assets (`static/`)
+- `favicon.svg` - Website favicon icon
+
+## Documentation (`my_docs/`)
+- `cursor_pngp_prompts.txt` - Cursor-specific prompts and instructions
+
+## Source Code (`src/`)
+
+### Application Core
+- `app.css` - Global application styles
+- `app.d.ts` - Global TypeScript type definitions
+- `app.html` - Main HTML template for the application
+
+### Data Layer (`src/data/`)
+**Data Files:**
+- `all_sp_data.json` - Species data collection
+- `tax_classif.json` - Taxonomic classification data
+- `valleys.json` - Valley/location data
+- `years.json` - Temporal data for years
+
+**Data Processing Scripts (`src/data/scripts/`):**
+- `fetch_species_data.js` - Script to fetch species information
+- `join_tax_data.js` - Script to join taxonomic data
+
+**Legacy Scripts (`src/data/scripts/old_ones/`):**
+- `process-species-data.js` - Old data processing script
+- `README.md` - Documentation for legacy scripts
+- `v_obs_rangers_eng.csv` - CSV data file
+
+### Library Code (`src/lib/`)
+- `index.js` - Main library exports
+- `utils.js` - Shared utility functions
+
+### Hooks (`src/lib/hooks/`)
+- `is-mobile.svelte.js` - Mobile device detection hook
+
+### UI Components (`src/lib/components/`)
+**App-Level Components:**
+- `app-sidebar.svelte` - Main application sidebar
+- `nav-user.svelte` - User navigation component
+
+**UI Component Library (`src/lib/components/ui/`):**
+- `avatar/` - User avatar components (avatar.svelte, avatar-fallback.svelte, avatar-image.svelte, index.js)
+- `breadcrumb/` - Navigation breadcrumb components (breadcrumb.svelte, breadcrumb-*.svelte, index.js)
+- `button/` - Button components (button.svelte, index.js)
+- `dropdown-menu/` - Dropdown menu system (dropdown-menu-*.svelte, index.js)
+- `input/` - Form input components (input.svelte, index.js)
+- `label/` - Form label components (label.svelte, index.js)
+- `separator/` - Visual separator components (separator.svelte, index.js)
+- `sheet/` - Modal sheet components (sheet-*.svelte, index.js)
+- `sidebar/` - Sidebar system (sidebar-*.svelte, constants.js, context.svelte.js, index.js)
+- `skeleton/` - Loading skeleton components (skeleton.svelte, index.js)
+- `switch/` - Toggle switch components (switch.svelte, index.js)
+- `tooltip/` - Tooltip components (tooltip-*.svelte, index.js)
+
+### Routes (`src/routes/`)
+- `+layout.svelte` - Main application layout
+- `+page.svelte` - Homepage component
+- `sidebar-09/+page.svelte` - Sidebar demo/example page
+
+## Important Patterns & Architecture Notes
+
+1. **SvelteKit File-Based Routing**: Routes are defined by file structure in `src/routes/`
+2. **Component Organization**: UI components are modularized by function in `src/lib/components/ui/`
+3. **Data Separation**: All data files and processing scripts are isolated in `src/data/`
+4. **Shared Libraries**: Common utilities and components are in `src/lib/`
+5. **Index Exports**: Each component directory has an `index.js` for clean imports
+
+## Critical Files for Development
+- `package.json` - Dependencies and scripts
+- `src/app.html` - Application entry point
+- `src/routes/+layout.svelte` - Global layout
+- `src/lib/components/` - Reusable UI components
+- `src/data/` - Data layer and processing
+
+## Configuration Files
+- `svelte.config.js` - Svelte/SvelteKit configuration
+- `vite.config.js` - Build tool configuration
+- `jsconfig.json` - IDE and tooling configuration
+- `components.json` - UI component library configuration

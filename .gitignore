@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+.node_modules
+
+# Vite build output
+.svelte-kit/
+svelte-kit/
+
+.vite/
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store

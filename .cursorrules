@@ -1,0 +1,38 @@
+# Svelte 5 Development Rules
+
+## CRITICAL: Documentation-First Protocol
+**BEFORE answering ANY question, you MUST read these files IN ORDER:**
+1. `docs/svelte 5/svelte.md` (Svelte 5 API)
+2. `docs/svelte 5/svelte_rules.md` (Best practices)
+3. `docs/svelte5-store-rules.md` (Store patterns)
+
+## Context
+<<<<<<< HEAD
+
+
+This project uses Svelte 5. ALL answers must be based on the local documentation first.
+
+## Key Svelte 5 Changes to Remember
+=======
+This project uses Svelte 5. ALL answers must be based on the local documentation first.
+
+## Key Svelte 5 Changes to Remember
+
+>>>>>>> b12b50d5205d3b996d040f92b1cc448cba38c88d
+- Use runes system ($state, $derived, $effect, $props)
+- Component syntax has changed significantly
+- Event handling uses on:event syntax
+- Snippets replace slots in many cases
+
+## MANDATORY Instructions
+- **ALWAYS read local documentation FIRST before any response**
+- **EXPLICITLY state which local files you checked**
+- Use modern Svelte 5 patterns and syntax only
+<<<<<<< HEAD
+- External sources only if local docs insufficient
+=======
+- External sources only if local docs insufficient
+
+# Bits UI Development Rules
+**BEFORE answering ANY question related to bits-ui, you MUST read files contained in docs/bits-ui**
+>>>>>>> b12b50d5205d3b996d040f92b1cc448cba38c88d

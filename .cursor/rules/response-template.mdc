@@ -1,0 +1,39 @@
+---
+description: Template for all technical responses to ensure documentation-first approach
+globs: **/*
+alwaysApply: true
+---
+
+# Response Template
+
+## Required Response Format
+
+Every technical answer must start with:
+
+```
+📚 **Documentation Check:**
+- ✅ Read: docs/svelte 5/svelte.md
+- ✅ Read: docs/svelte 5/svelte_rules.md
+- ✅ Read: [other relevant docs]
+
+**Based on your local documentation:** [answer here]
+```
+
+## If External Sources Needed:
+```
+📚 **Documentation Check:**
+- ✅ Read: [local files]
+- ❌ Local docs don't cover [specific topic]
+- 🌐 Supplementing with: [external source]
+```
+
+## Template Example:
+```
+📚 **Documentation Check:**
+- ✅ Read: docs/svelte 5/svelte.md (lines 11335-11381)
+- ✅ Found SvelteMap information in your local docs
+
+**Based on your local documentation:** SvelteMap is imported from 'svelte/reactivity'...
+```
+
+This format makes it impossible to forget the documentation check step.

@@ -1,0 +1,1703 @@
+[
+	{
+		"tax_id": 2,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 211 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 40 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 96 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 72 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 496 },
+			{ "valley_name": null, "valley_id": 6, "count": 106 }
+		]
+	},
+	{ "tax_id": 3, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 1 }] },
+	{
+		"tax_id": 4,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 13 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 89 },
+			{ "valley_name": null, "valley_id": 6, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 5,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 6,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 103 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 48 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 17 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 183 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 388 },
+			{ "valley_name": null, "valley_id": 6, "count": 101 }
+		]
+	},
+	{
+		"tax_id": 7,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 127 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 78 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 81 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 57 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 283 },
+			{ "valley_name": null, "valley_id": 6, "count": 18 }
+		]
+	},
+	{ "tax_id": 8, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 1 }] },
+	{
+		"tax_id": 9,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 4 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 11,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 24 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 3 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 12,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 317 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 70 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 185 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 136 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 768 },
+			{ "valley_name": null, "valley_id": 6, "count": 122 }
+		]
+	},
+	{
+		"tax_id": 14,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 24 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 28 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 21 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 5 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 60 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 15,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 5 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 68 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 7 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 77 },
+			{ "valley_name": null, "valley_id": 6, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 16,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 17,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 161 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 170 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 162 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 110 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 115 },
+			{ "valley_name": null, "valley_id": 6, "count": 105 }
+		]
+	},
+	{
+		"tax_id": 18,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 45 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 6 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 48 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 13 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 91 },
+			{ "valley_name": null, "valley_id": 6, "count": 11 }
+		]
+	},
+	{
+		"tax_id": 19,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 9 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 50 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 80 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 10 }
+		]
+	},
+	{
+		"tax_id": 20,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 2 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 32 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 3 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 4 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 12 },
+			{ "valley_name": null, "valley_id": 6, "count": 21 }
+		]
+	},
+	{
+		"tax_id": 22,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 3 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 26 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 3 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 10 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 12 },
+			{ "valley_name": null, "valley_id": 6, "count": 16 }
+		]
+	},
+	{ "tax_id": 24, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 2 }] },
+	{
+		"tax_id": 26,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 120 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 67 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 25 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 99 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 458 },
+			{ "valley_name": null, "valley_id": 6, "count": 81 }
+		]
+	},
+	{
+		"tax_id": 27,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 307 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 174 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 164 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 125 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 299 },
+			{ "valley_name": null, "valley_id": 6, "count": 43 }
+		]
+	},
+	{
+		"tax_id": 28,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 7 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 4 }
+		]
+	},
+	{ "tax_id": 29, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 1 }] },
+	{
+		"tax_id": 30,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 32,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 165 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 118 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 66 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 70 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 352 },
+			{ "valley_name": null, "valley_id": 6, "count": 66 }
+		]
+	},
+	{
+		"tax_id": 33,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 29 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 100 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 8 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 9 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 21 },
+			{ "valley_name": null, "valley_id": 6, "count": 13 }
+		]
+	},
+	{ "tax_id": 34, "data": [{ "valley_name": null, "valley_id": 6, "count": 1 }] },
+	{
+		"tax_id": 35,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 197 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 183 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 41 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 138 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 730 },
+			{ "valley_name": null, "valley_id": 6, "count": 58 }
+		]
+	},
+	{
+		"tax_id": 36,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 8 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 46 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 28 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 10 },
+			{ "valley_name": null, "valley_id": 6, "count": 176 }
+		]
+	},
+	{
+		"tax_id": 37,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 3 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 5 }
+		]
+	},
+	{
+		"tax_id": 38,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 4 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 4 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 6 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 4 },
+			{ "valley_name": null, "valley_id": 6, "count": 6 }
+		]
+	},
+	{
+		"tax_id": 39,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 69 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 44 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 37 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 67 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 87 },
+			{ "valley_name": null, "valley_id": 6, "count": 19 }
+		]
+	},
+	{ "tax_id": 40, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 1 }] },
+	{ "tax_id": 41, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 1 }] },
+	{
+		"tax_id": 44,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 217 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 110 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 83 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 168 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 290 },
+			{ "valley_name": null, "valley_id": 6, "count": 85 }
+		]
+	},
+	{
+		"tax_id": 45,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1581 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 912 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 779 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 624 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1753 },
+			{ "valley_name": null, "valley_id": 6, "count": 472 }
+		]
+	},
+	{
+		"tax_id": 46,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 58 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 58 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 30 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 55 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 235 },
+			{ "valley_name": null, "valley_id": 6, "count": 47 }
+		]
+	},
+	{
+		"tax_id": 47,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 153 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 52 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 89 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 82 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 304 },
+			{ "valley_name": null, "valley_id": 6, "count": 23 }
+		]
+	},
+	{
+		"tax_id": 49,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 737 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 187 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 267 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 96 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 674 },
+			{ "valley_name": null, "valley_id": 6, "count": 137 }
+		]
+	},
+	{
+		"tax_id": 50,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 276 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 121 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 160 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 281 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 905 },
+			{ "valley_name": null, "valley_id": 6, "count": 110 }
+		]
+	},
+	{
+		"tax_id": 51,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 179 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 57 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 43 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 50 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 129 },
+			{ "valley_name": null, "valley_id": 6, "count": 18 }
+		]
+	},
+	{
+		"tax_id": 53,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 5 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 7 }
+		]
+	},
+	{
+		"tax_id": 54,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 262 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 156 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 70 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 85 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 386 },
+			{ "valley_name": null, "valley_id": 6, "count": 42 }
+		]
+	},
+	{ "tax_id": 55, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 2 }] },
+	{
+		"tax_id": 57,
+		"data": [
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 58,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 88 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 32 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 47 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 37 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 50 },
+			{ "valley_name": null, "valley_id": 6, "count": 22 }
+		]
+	},
+	{
+		"tax_id": 60,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 112 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 86 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 21 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 23 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 207 },
+			{ "valley_name": null, "valley_id": 6, "count": 64 }
+		]
+	},
+	{
+		"tax_id": 62,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 67 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 40 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 40 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 73 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 247 },
+			{ "valley_name": null, "valley_id": 6, "count": 29 }
+		]
+	},
+	{
+		"tax_id": 63,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 80 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 3 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 9 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 25 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 12 },
+			{ "valley_name": null, "valley_id": 6, "count": 18 }
+		]
+	},
+	{ "tax_id": 64, "data": [{ "valley_name": "Soana", "valley_id": 4, "count": 2 }] },
+	{
+		"tax_id": 68,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 378 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 257 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 56 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 323 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 913 },
+			{ "valley_name": null, "valley_id": 6, "count": 247 }
+		]
+	},
+	{
+		"tax_id": 71,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 125 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 125 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 54 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 123 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 269 },
+			{ "valley_name": null, "valley_id": 6, "count": 39 }
+		]
+	},
+	{
+		"tax_id": 72,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 161 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 57 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 31 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 117 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 345 },
+			{ "valley_name": null, "valley_id": 6, "count": 110 }
+		]
+	},
+	{
+		"tax_id": 73,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 12 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 7 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 4 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{ "tax_id": 74, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 5 }] },
+	{
+		"tax_id": 76,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 256 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 152 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 122 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 131 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 307 },
+			{ "valley_name": null, "valley_id": 6, "count": 85 }
+		]
+	},
+	{
+		"tax_id": 78,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 41 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 32 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 20 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 49 },
+			{ "valley_name": null, "valley_id": 6, "count": 21 }
+		]
+	},
+	{
+		"tax_id": 79,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 4 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 2 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 5 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 81,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 123 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 61 },
+			{ "valley_name": null, "valley_id": 6, "count": 8 }
+		]
+	},
+	{
+		"tax_id": 83,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 183 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 271 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 438 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 107 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 145 },
+			{ "valley_name": null, "valley_id": 6, "count": 10 }
+		]
+	},
+	{
+		"tax_id": 84,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 }
+		]
+	},
+	{ "tax_id": 85, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 4 }] },
+	{ "tax_id": 86, "data": [{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 }] },
+	{ "tax_id": 87, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 1 }] },
+	{
+		"tax_id": 88,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 308 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1140 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 305 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 445 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 394 },
+			{ "valley_name": null, "valley_id": 6, "count": 60 }
+		]
+	},
+	{ "tax_id": 92, "data": [{ "valley_name": null, "valley_id": 6, "count": 1 }] },
+	{
+		"tax_id": 96,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 240 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 57 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 50 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 153 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 736 },
+			{ "valley_name": null, "valley_id": 6, "count": 89 }
+		]
+	},
+	{
+		"tax_id": 97,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 17 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 75 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 10 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 51 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 18 },
+			{ "valley_name": null, "valley_id": 6, "count": 18 }
+		]
+	},
+	{
+		"tax_id": 99,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 21 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 55 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 10 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 15 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 27 },
+			{ "valley_name": null, "valley_id": 6, "count": 16 }
+		]
+	},
+	{ "tax_id": 103, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 2 }] },
+	{ "tax_id": 104, "data": [{ "valley_name": null, "valley_id": 6, "count": 1 }] },
+	{
+		"tax_id": 106,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 6 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 2 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 4 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 7 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1 },
+			{ "valley_name": null, "valley_id": 6, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 107,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 10 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 43 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 3 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 9 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 8 },
+			{ "valley_name": null, "valley_id": 6, "count": 10 }
+		]
+	},
+	{
+		"tax_id": 108,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 10 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 25 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 4 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 57 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 109,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 103 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 12 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 3 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 110,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 96 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 74 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 101 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 46 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 98 },
+			{ "valley_name": null, "valley_id": 6, "count": 20 }
+		]
+	},
+	{ "tax_id": 111, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 1 }] },
+	{ "tax_id": 112, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 1 }] },
+	{
+		"tax_id": 113,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 114,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 9 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 115,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 117,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 82 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 65 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 20 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 36 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 221 },
+			{ "valley_name": null, "valley_id": 6, "count": 42 }
+		]
+	},
+	{
+		"tax_id": 123,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 10 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 4 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 124,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 30 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 7 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 7 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 10 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 56 },
+			{ "valley_name": null, "valley_id": 6, "count": 18 }
+		]
+	},
+	{ "tax_id": 125, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 2 }] },
+	{
+		"tax_id": 128,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 59 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 208 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 57 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 87 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 195 },
+			{ "valley_name": null, "valley_id": 6, "count": 44 }
+		]
+	},
+	{
+		"tax_id": 130,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 48 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 11 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 40 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 23 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 14 },
+			{ "valley_name": null, "valley_id": 6, "count": 33 }
+		]
+	},
+	{
+		"tax_id": 131,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 6 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 4 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 12 }
+		]
+	},
+	{
+		"tax_id": 132,
+		"data": [
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 5 }
+		]
+	},
+	{ "tax_id": 133, "data": [{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 }] },
+	{
+		"tax_id": 134,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 165 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 195 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 324 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 62 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 254 },
+			{ "valley_name": null, "valley_id": 6, "count": 98 }
+		]
+	},
+	{
+		"tax_id": 135,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 14 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 5 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 44 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 5 }
+		]
+	},
+	{
+		"tax_id": 136,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 987 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1963 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 731 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1687 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1492 },
+			{ "valley_name": null, "valley_id": 6, "count": 846 }
+		]
+	},
+	{
+		"tax_id": 137,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 69 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 34 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 22 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 60 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 316 },
+			{ "valley_name": null, "valley_id": 6, "count": 81 }
+		]
+	},
+	{
+		"tax_id": 138,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 35 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 10 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 88 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 5 },
+			{ "valley_name": null, "valley_id": 6, "count": 17 }
+		]
+	},
+	{ "tax_id": 139, "data": [{ "valley_name": "Soana", "valley_id": 4, "count": 1 }] },
+	{
+		"tax_id": 140,
+		"data": [
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 3 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 142,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 12 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 27 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 15 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 4 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 13 }
+		]
+	},
+	{ "tax_id": 143, "data": [{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1 }] },
+	{
+		"tax_id": 146,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 37 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 9 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 19 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 6 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 19 },
+			{ "valley_name": null, "valley_id": 6, "count": 21 }
+		]
+	},
+	{
+		"tax_id": 147,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 21 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 18 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 6 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 4 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 35 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 148,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 3 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 12 },
+			{ "valley_name": null, "valley_id": 6, "count": 7 }
+		]
+	},
+	{ "tax_id": 149, "data": [{ "valley_name": null, "valley_id": 6, "count": 1 }] },
+	{
+		"tax_id": 150,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 151,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 91 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 42 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 44 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 98 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 400 },
+			{ "valley_name": null, "valley_id": 6, "count": 68 }
+		]
+	},
+	{
+		"tax_id": 152,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 154,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 57 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 33 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 12 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 44 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 110 },
+			{ "valley_name": null, "valley_id": 6, "count": 50 }
+		]
+	},
+	{
+		"tax_id": 158,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 3 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 16 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 33 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 160,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 61 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 161,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 135 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 54 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 22 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 50 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 260 },
+			{ "valley_name": null, "valley_id": 6, "count": 91 }
+		]
+	},
+	{
+		"tax_id": 164,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 3 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 15 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 12 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 165,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 3 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 9 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 5 }
+		]
+	},
+	{
+		"tax_id": 166,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 378 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 257 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 182 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 248 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 545 },
+			{ "valley_name": null, "valley_id": 6, "count": 144 }
+		]
+	},
+	{
+		"tax_id": 167,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 13 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 7 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 5 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 6 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 168,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 3 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 170,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 2559 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1415 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1000 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 606 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2523 },
+			{ "valley_name": null, "valley_id": 6, "count": 372 }
+		]
+	},
+	{ "tax_id": 171, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 1 }] },
+	{ "tax_id": 172, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 1 }] },
+	{
+		"tax_id": 174,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 44 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 56 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 301 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 583 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 70 },
+			{ "valley_name": null, "valley_id": 6, "count": 433 }
+		]
+	},
+	{
+		"tax_id": 175,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 85 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 15 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 65 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 85 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 186 },
+			{ "valley_name": null, "valley_id": 6, "count": 36 }
+		]
+	},
+	{
+		"tax_id": 177,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 4 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1 }
+		]
+	},
+	{ "tax_id": 178, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 3 }] },
+	{
+		"tax_id": 179,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 2 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 3 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 180,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 2 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 2 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 4 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 3 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 4 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 181,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 5 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 238 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 18 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 13 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 183,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 186 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 134 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 65 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 200 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 350 },
+			{ "valley_name": null, "valley_id": 6, "count": 66 }
+		]
+	},
+	{
+		"tax_id": 186,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 3 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 6 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 187,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 15 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 189,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 34 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 18 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 4 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 16 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 86 },
+			{ "valley_name": null, "valley_id": 6, "count": 27 }
+		]
+	},
+	{
+		"tax_id": 190,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 191,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 2 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 4 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 192,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 4 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 5 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 8 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 193,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 194,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 2 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 196,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 23 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 11 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 18 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 19 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 37 },
+			{ "valley_name": null, "valley_id": 6, "count": 22 }
+		]
+	},
+	{ "tax_id": 198, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 1 }] },
+	{
+		"tax_id": 199,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 6 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 8 },
+			{ "valley_name": null, "valley_id": 6, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 200,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 11 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 4 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 201,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": null, "valley_id": 6, "count": 5 }
+		]
+	},
+	{
+		"tax_id": 202,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 17 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 5 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 14 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 203,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 205,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 72 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 112 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 22 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 3 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 3 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 208,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 56 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1551 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 563 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1092 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 188 },
+			{ "valley_name": null, "valley_id": 6, "count": 339 }
+		]
+	},
+	{ "tax_id": 210, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 4 }] },
+	{
+		"tax_id": 211,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 4 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 3 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 52 },
+			{ "valley_name": null, "valley_id": 6, "count": 5 }
+		]
+	},
+	{
+		"tax_id": 212,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 6 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 6 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 15 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 6 }
+		]
+	},
+	{
+		"tax_id": 214,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 3 },
+			{ "valley_name": null, "valley_id": 6, "count": 12 }
+		]
+	},
+	{
+		"tax_id": 215,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 151 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 102 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 54 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 113 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 200 },
+			{ "valley_name": null, "valley_id": 6, "count": 42 }
+		]
+	},
+	{
+		"tax_id": 217,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 6 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 13 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 5 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 12 },
+			{ "valley_name": null, "valley_id": 6, "count": 26 }
+		]
+	},
+	{
+		"tax_id": 218,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 116 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 68 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 9 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 46 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 82 },
+			{ "valley_name": null, "valley_id": 6, "count": 78 }
+		]
+	},
+	{
+		"tax_id": 219,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 6 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 5 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 220,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 217 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 195 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 28 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 236 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 199 },
+			{ "valley_name": null, "valley_id": 6, "count": 37 }
+		]
+	},
+	{
+		"tax_id": 222,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 50 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 52 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 7 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 18 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 141 },
+			{ "valley_name": null, "valley_id": 6, "count": 20 }
+		]
+	},
+	{
+		"tax_id": 224,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 2 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 8 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 3 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 3 },
+			{ "valley_name": null, "valley_id": 6, "count": 6 }
+		]
+	},
+	{
+		"tax_id": 225,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 8 },
+			{ "valley_name": null, "valley_id": 6, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 228,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 9 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 10 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 13 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 19 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 32 },
+			{ "valley_name": null, "valley_id": 6, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 229,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 364 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 185 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 104 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 157 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 518 },
+			{ "valley_name": null, "valley_id": 6, "count": 70 }
+		]
+	},
+	{
+		"tax_id": 230,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 5 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 5 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 4 },
+			{ "valley_name": null, "valley_id": 6, "count": 2 }
+		]
+	},
+	{ "tax_id": 231, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 5 }] },
+	{ "tax_id": 234, "data": [{ "valley_name": "Soana", "valley_id": 4, "count": 1 }] },
+	{
+		"tax_id": 235,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 2410 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 12479 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 3524 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2945 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 5052 },
+			{ "valley_name": null, "valley_id": 6, "count": 614 }
+		]
+	},
+	{
+		"tax_id": 236,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 14 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 11 },
+			{ "valley_name": null, "valley_id": 6, "count": 8 }
+		]
+	},
+	{ "tax_id": 237, "data": [{ "valley_name": "Cogne", "valley_id": 1, "count": 1 }] },
+	{
+		"tax_id": 238,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 29 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 49 },
+			{ "valley_name": null, "valley_id": 6, "count": 54 }
+		]
+	},
+	{ "tax_id": 239, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 5 }] },
+	{ "tax_id": 240, "data": [{ "valley_name": null, "valley_id": 6, "count": 1 }] },
+	{
+		"tax_id": 241,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 5 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 242,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 35 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 17 },
+			{ "valley_name": null, "valley_id": 6, "count": 15 }
+		]
+	},
+	{
+		"tax_id": 243,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 8 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 244,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 3 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 24 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 29 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 4 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 14 },
+			{ "valley_name": null, "valley_id": 6, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 248,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 3 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 2 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 10 }
+		]
+	},
+	{
+		"tax_id": 249,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 133 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 366 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 5 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 241 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 111 },
+			{ "valley_name": null, "valley_id": 6, "count": 23 }
+		]
+	},
+	{
+		"tax_id": 251,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 8 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 4 },
+			{ "valley_name": null, "valley_id": 6, "count": 6 }
+		]
+	},
+	{
+		"tax_id": 252,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2 },
+			{ "valley_name": null, "valley_id": 6, "count": 7 }
+		]
+	},
+	{
+		"tax_id": 253,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 256,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 33 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 4 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 3 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 8 },
+			{ "valley_name": null, "valley_id": 6, "count": 8 }
+		]
+	},
+	{
+		"tax_id": 260,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 6 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 2 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2 }
+		]
+	},
+	{
+		"tax_id": 262,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 58 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 195 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 3 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 322 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 389 },
+			{ "valley_name": null, "valley_id": 6, "count": 163 }
+		]
+	},
+	{
+		"tax_id": 263,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 351 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 591 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 179 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 383 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 597 },
+			{ "valley_name": null, "valley_id": 6, "count": 90 }
+		]
+	},
+	{ "tax_id": 264, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 1 }] },
+	{
+		"tax_id": 265,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 38 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 57 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 115 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 22 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 115 },
+			{ "valley_name": null, "valley_id": 6, "count": 21 }
+		]
+	},
+	{
+		"tax_id": 267,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 43 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 21 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 15 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 20 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 156 },
+			{ "valley_name": null, "valley_id": 6, "count": 13 }
+		]
+	},
+	{
+		"tax_id": 269,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 16 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 10 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 4 }
+		]
+	},
+	{
+		"tax_id": 270,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 445 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 681 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 1016 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 367 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 603 },
+			{ "valley_name": null, "valley_id": 6, "count": 68 }
+		]
+	},
+	{
+		"tax_id": 271,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 8 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 6 }
+		]
+	},
+	{ "tax_id": 272, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 1 }] },
+	{
+		"tax_id": 273,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 411 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 478 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 398 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 673 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 787 },
+			{ "valley_name": null, "valley_id": 6, "count": 215 }
+		]
+	},
+	{
+		"tax_id": 274,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 91 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 86 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 54 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 69 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 213 },
+			{ "valley_name": null, "valley_id": 6, "count": 39 }
+		]
+	},
+	{ "tax_id": 276, "data": [{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 1 }] },
+	{
+		"tax_id": 277,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 2 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 5 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 278,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1785 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 3366 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 991 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 2018 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 2436 },
+			{ "valley_name": null, "valley_id": 6, "count": 1226 }
+		]
+	},
+	{
+		"tax_id": 279,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 7 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 5 }
+		]
+	},
+	{ "tax_id": 280, "data": [{ "valley_name": "Orco", "valley_id": 2, "count": 1 }] },
+	{
+		"tax_id": 281,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 15 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 5 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 3 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 14 },
+			{ "valley_name": null, "valley_id": 6, "count": 15 }
+		]
+	},
+	{
+		"tax_id": 282,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 80 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 14 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 8 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 100 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 203 },
+			{ "valley_name": null, "valley_id": 6, "count": 20 }
+		]
+	},
+	{
+		"tax_id": 285,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 136 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 70 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 112 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 62 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 402 },
+			{ "valley_name": null, "valley_id": 6, "count": 46 }
+		]
+	},
+	{
+		"tax_id": 286,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 216 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 134 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 71 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 363 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 40 },
+			{ "valley_name": null, "valley_id": 6, "count": 149 }
+		]
+	},
+	{
+		"tax_id": 289,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 8 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 6 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 7 },
+			{ "valley_name": null, "valley_id": 6, "count": 3 }
+		]
+	},
+	{
+		"tax_id": 290,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 }
+		]
+	},
+	{
+		"tax_id": 291,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 175 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 99 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 41 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 98 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 193 },
+			{ "valley_name": null, "valley_id": 6, "count": 68 }
+		]
+	},
+	{
+		"tax_id": 293,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 33 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 17 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 5 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 43 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 97 },
+			{ "valley_name": null, "valley_id": 6, "count": 15 }
+		]
+	},
+	{
+		"tax_id": 296,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 206 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 102 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 197 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 230 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 619 },
+			{ "valley_name": null, "valley_id": 6, "count": 43 }
+		]
+	},
+	{
+		"tax_id": 297,
+		"data": [
+			{ "valley_name": "Cogne", "valley_id": 1, "count": 1814 },
+			{ "valley_name": "Orco", "valley_id": 2, "count": 6284 },
+			{ "valley_name": "Rhemes", "valley_id": 3, "count": 2410 },
+			{ "valley_name": "Soana", "valley_id": 4, "count": 1118 },
+			{ "valley_name": "Valsavarenche", "valley_id": 5, "count": 4573 },
+			{ "valley_name": null, "valley_id": 6, "count": 487 }
+		]
+	},
+	{
+		"tax_id": null,
+		"data": [
+			{ "valley_name": "Orco", "valley_id": 2, "count": 1 },
+			{ "valley_name": null, "valley_id": 6, "count": 1 }
+		]
+	}
+]
