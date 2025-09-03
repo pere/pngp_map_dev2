@@ -32,7 +32,8 @@ $effect(()=>{
   if(taxonomyTree === null && isLoading){
     console.log('Fetching taxonomic tree data...');
 
-    fetch('./src/lib/taxonomic_tree_images_wikipedia_final.json')
+    //fetch('./src/lib/taxonomic_tree_images_wikipedia_final.json')
+    fetch('/data/new_sources/taxonomic_tree_images_wikipedia_final.json')
     .then(response => {
 
       if (!response.ok) {
